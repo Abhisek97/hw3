@@ -14,7 +14,7 @@ import argparse
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--dataRoot', default = './', help = 'The path to the dataset')
+parser.add_argument('--dataRoot', default = '/datasets/MNIST', help = 'The path to the dataset')
 parser.add_argument('--trainRoot', default=None, help = 'The path to save the model')
 parser.add_argument('--testRoot', default=None, help = 'The path to load the model')
 parser.add_argument('--cuda', action = 'store_true', help = 'Use gpu for training')
