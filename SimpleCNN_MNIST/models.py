@@ -5,9 +5,9 @@ import torch.nn.functional as F
 class classifier(nn.Module):
     def __init__(self, isDropOut = True):
         super(classifier, self).__init__()
-        self.conv1 = nn.Conv2d(5,2,1)
+        self.conv1 = nn.Conv2d(5,32,3,3,1)
         self.pool = nn.MaxPool2d(2,2)
-        self.conv2 = nn.Conv2d(5,2,1)
+        self.conv2 = nn.Conv2d(5,32,1,1,1)
         self.fc1 = nn.Linear(16 * 5 * 5, 120)
         self.fc2 = nn.Linear(120, 84)
         self.fc3 = nn.Linear(84, 10)
@@ -20,7 +20,5 @@ class classifier(nn.Module):
         x = F.relu(self.fc1(x))
         x = F.relu(self.fc2(x))
         x = self.fc3(x)
-        return x
-
         return x
 
