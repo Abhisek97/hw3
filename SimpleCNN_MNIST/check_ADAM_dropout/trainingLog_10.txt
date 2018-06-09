@@ -1,0 +1,1200 @@
+[10][6001] Error: 0.000122 
+[10][6001] Accumulated Error: 0.002628 
+[10][6002] Error: 0.000759 
+[10][6002] Accumulated Error: 0.002627 
+[10][6003] Error: 0.007727 
+[10][6003] Accumulated Error: 0.002635 
+[10][6004] Error: 0.000021 
+[10][6004] Accumulated Error: 0.002635 
+[10][6005] Error: 0.004724 
+[10][6005] Accumulated Error: 0.002639 
+[10][6006] Error: 0.000438 
+[10][6006] Accumulated Error: 0.002640 
+[10][6007] Error: 0.000082 
+[10][6007] Accumulated Error: 0.002638 
+[10][6008] Error: 0.000779 
+[10][6008] Accumulated Error: 0.002636 
+[10][6009] Error: 0.000375 
+[10][6009] Accumulated Error: 0.002637 
+[10][6010] Error: 0.000315 
+[10][6010] Accumulated Error: 0.002634 
+[10][6011] Error: 0.003082 
+[10][6011] Accumulated Error: 0.002636 
+[10][6012] Error: 0.000074 
+[10][6012] Accumulated Error: 0.002636 
+[10][6013] Error: 0.000809 
+[10][6013] Accumulated Error: 0.002637 
+[10][6014] Error: 0.009698 
+[10][6014] Accumulated Error: 0.002645 
+[10][6015] Error: 0.000159 
+[10][6015] Accumulated Error: 0.002642 
+[10][6016] Error: 0.000096 
+[10][6016] Accumulated Error: 0.002643 
+[10][6017] Error: 0.001408 
+[10][6017] Accumulated Error: 0.002644 
+[10][6018] Error: 0.000641 
+[10][6018] Accumulated Error: 0.002640 
+[10][6019] Error: 0.000107 
+[10][6019] Accumulated Error: 0.002641 
+[10][6020] Error: 0.000715 
+[10][6020] Accumulated Error: 0.002640 
+[10][6021] Error: 0.023365 
+[10][6021] Accumulated Error: 0.002664 
+[10][6022] Error: 0.000065 
+[10][6022] Accumulated Error: 0.002664 
+[10][6023] Error: 0.000028 
+[10][6023] Accumulated Error: 0.002663 
+[10][6024] Error: 0.000050 
+[10][6024] Accumulated Error: 0.002663 
+[10][6025] Error: 0.056922 
+[10][6025] Accumulated Error: 0.002720 
+[10][6026] Error: 0.000138 
+[10][6026] Accumulated Error: 0.002713 
+[10][6027] Error: 0.001587 
+[10][6027] Accumulated Error: 0.002714 
+[10][6028] Error: 0.003017 
+[10][6028] Accumulated Error: 0.002716 
+[10][6029] Error: 0.000277 
+[10][6029] Accumulated Error: 0.002717 
+[10][6030] Error: 0.003951 
+[10][6030] Accumulated Error: 0.002721 
+[10][6031] Error: 0.000047 
+[10][6031] Accumulated Error: 0.002721 
+[10][6032] Error: 0.000122 
+[10][6032] Accumulated Error: 0.002721 
+[10][6033] Error: 0.000250 
+[10][6033] Accumulated Error: 0.002721 
+[10][6034] Error: 0.000372 
+[10][6034] Accumulated Error: 0.002721 
+[10][6035] Error: 0.000024 
+[10][6035] Accumulated Error: 0.002721 
+[10][6036] Error: 0.003793 
+[10][6036] Accumulated Error: 0.002725 
+[10][6037] Error: 0.002404 
+[10][6037] Accumulated Error: 0.002727 
+[10][6038] Error: 0.000091 
+[10][6038] Accumulated Error: 0.002727 
+[10][6039] Error: 0.000144 
+[10][6039] Accumulated Error: 0.002726 
+[10][6040] Error: 0.000409 
+[10][6040] Accumulated Error: 0.002725 
+[10][6041] Error: 0.000137 
+[10][6041] Accumulated Error: 0.002725 
+[10][6042] Error: 0.000406 
+[10][6042] Accumulated Error: 0.002726 
+[10][6043] Error: 0.000344 
+[10][6043] Accumulated Error: 0.002726 
+[10][6044] Error: 0.000131 
+[10][6044] Accumulated Error: 0.002726 
+[10][6045] Error: 0.000728 
+[10][6045] Accumulated Error: 0.002726 
+[10][6046] Error: 0.000010 
+[10][6046] Accumulated Error: 0.002726 
+[10][6047] Error: 0.004700 
+[10][6047] Accumulated Error: 0.002728 
+[10][6048] Error: 0.000007 
+[10][6048] Accumulated Error: 0.002728 
+[10][6049] Error: 0.000021 
+[10][6049] Accumulated Error: 0.002728 
+[10][6050] Error: 0.000144 
+[10][6050] Accumulated Error: 0.002728 
+[10][6051] Error: 0.002915 
+[10][6051] Accumulated Error: 0.002731 
+[10][6052] Error: 0.000130 
+[10][6052] Accumulated Error: 0.002726 
+[10][6053] Error: 0.000337 
+[10][6053] Accumulated Error: 0.002726 
+[10][6054] Error: 0.000432 
+[10][6054] Accumulated Error: 0.002726 
+[10][6055] Error: 0.003289 
+[10][6055] Accumulated Error: 0.002729 
+[10][6056] Error: 0.000161 
+[10][6056] Accumulated Error: 0.002729 
+[10][6057] Error: 0.000170 
+[10][6057] Accumulated Error: 0.002729 
+[10][6058] Error: 0.001145 
+[10][6058] Accumulated Error: 0.002730 
+[10][6059] Error: 0.000793 
+[10][6059] Accumulated Error: 0.002730 
+[10][6060] Error: 0.000118 
+[10][6060] Accumulated Error: 0.002727 
+[10][6061] Error: 0.001231 
+[10][6061] Accumulated Error: 0.002729 
+[10][6062] Error: 0.000189 
+[10][6062] Accumulated Error: 0.002729 
+[10][6063] Error: 0.000742 
+[10][6063] Accumulated Error: 0.002729 
+[10][6064] Error: 0.000494 
+[10][6064] Accumulated Error: 0.002729 
+[10][6065] Error: 0.000031 
+[10][6065] Accumulated Error: 0.002721 
+[10][6066] Error: 0.000012 
+[10][6066] Accumulated Error: 0.002709 
+[10][6067] Error: 0.001200 
+[10][6067] Accumulated Error: 0.002703 
+[10][6068] Error: 0.001189 
+[10][6068] Accumulated Error: 0.002704 
+[10][6069] Error: 0.001024 
+[10][6069] Accumulated Error: 0.002704 
+[10][6070] Error: 0.000468 
+[10][6070] Accumulated Error: 0.002704 
+[10][6071] Error: 0.013487 
+[10][6071] Accumulated Error: 0.002717 
+[10][6072] Error: 0.000018 
+[10][6072] Accumulated Error: 0.002717 
+[10][6073] Error: 0.012530 
+[10][6073] Accumulated Error: 0.002729 
+[10][6074] Error: 0.000041 
+[10][6074] Accumulated Error: 0.002729 
+[10][6075] Error: 0.000027 
+[10][6075] Accumulated Error: 0.002729 
+[10][6076] Error: 0.000913 
+[10][6076] Accumulated Error: 0.002730 
+[10][6077] Error: 0.001030 
+[10][6077] Accumulated Error: 0.002730 
+[10][6078] Error: 0.000227 
+[10][6078] Accumulated Error: 0.002730 
+[10][6079] Error: 0.000099 
+[10][6079] Accumulated Error: 0.002730 
+[10][6080] Error: 0.000287 
+[10][6080] Accumulated Error: 0.002730 
+[10][6081] Error: 0.000112 
+[10][6081] Accumulated Error: 0.002730 
+[10][6082] Error: 0.000073 
+[10][6082] Accumulated Error: 0.002730 
+[10][6083] Error: 0.000267 
+[10][6083] Accumulated Error: 0.002731 
+[10][6084] Error: 0.000323 
+[10][6084] Accumulated Error: 0.002730 
+[10][6085] Error: 0.013489 
+[10][6085] Accumulated Error: 0.002742 
+[10][6086] Error: 0.000011 
+[10][6086] Accumulated Error: 0.002741 
+[10][6087] Error: 0.001505 
+[10][6087] Accumulated Error: 0.002743 
+[10][6088] Error: 0.001015 
+[10][6088] Accumulated Error: 0.002744 
+[10][6089] Error: 0.001682 
+[10][6089] Accumulated Error: 0.002745 
+[10][6090] Error: 0.000003 
+[10][6090] Accumulated Error: 0.002745 
+[10][6091] Error: 0.001098 
+[10][6091] Accumulated Error: 0.002746 
+[10][6092] Error: 0.000073 
+[10][6092] Accumulated Error: 0.002746 
+[10][6093] Error: 0.000188 
+[10][6093] Accumulated Error: 0.002746 
+[10][6094] Error: 0.020612 
+[10][6094] Accumulated Error: 0.002766 
+[10][6095] Error: 0.004235 
+[10][6095] Accumulated Error: 0.002769 
+[10][6096] Error: 0.004695 
+[10][6096] Accumulated Error: 0.002774 
+[10][6097] Error: 0.000168 
+[10][6097] Accumulated Error: 0.002774 
+[10][6098] Error: 0.000035 
+[10][6098] Accumulated Error: 0.002772 
+[10][6099] Error: 0.000069 
+[10][6099] Accumulated Error: 0.002772 
+[10][6100] Error: 0.000095 
+[10][6100] Accumulated Error: 0.002772 
+[10][6101] Error: 0.003347 
+[10][6101] Accumulated Error: 0.002775 
+[10][6102] Error: 0.000018 
+[10][6102] Accumulated Error: 0.002771 
+[10][6103] Error: 0.031197 
+[10][6103] Accumulated Error: 0.002802 
+[10][6104] Error: 0.002012 
+[10][6104] Accumulated Error: 0.002804 
+[10][6105] Error: 0.000040 
+[10][6105] Accumulated Error: 0.002804 
+[10][6106] Error: 0.000007 
+[10][6106] Accumulated Error: 0.002803 
+[10][6107] Error: 0.000004 
+[10][6107] Accumulated Error: 0.002803 
+[10][6108] Error: 0.000150 
+[10][6108] Accumulated Error: 0.002803 
+[10][6109] Error: 0.000289 
+[10][6109] Accumulated Error: 0.002803 
+[10][6110] Error: 0.029192 
+[10][6110] Accumulated Error: 0.002832 
+[10][6111] Error: 0.000004 
+[10][6111] Accumulated Error: 0.002832 
+[10][6112] Error: 0.000033 
+[10][6112] Accumulated Error: 0.002831 
+[10][6113] Error: 0.000047 
+[10][6113] Accumulated Error: 0.002831 
+[10][6114] Error: 0.000159 
+[10][6114] Accumulated Error: 0.002830 
+[10][6115] Error: 0.000094 
+[10][6115] Accumulated Error: 0.002830 
+[10][6116] Error: 0.001146 
+[10][6116] Accumulated Error: 0.002829 
+[10][6117] Error: 0.000143 
+[10][6117] Accumulated Error: 0.002826 
+[10][6118] Error: 0.015804 
+[10][6118] Accumulated Error: 0.002842 
+[10][6119] Error: 0.000139 
+[10][6119] Accumulated Error: 0.002842 
+[10][6120] Error: 0.002115 
+[10][6120] Accumulated Error: 0.002844 
+[10][6121] Error: 0.001769 
+[10][6121] Accumulated Error: 0.002846 
+[10][6122] Error: 0.000063 
+[10][6122] Accumulated Error: 0.002846 
+[10][6123] Error: 0.000052 
+[10][6123] Accumulated Error: 0.002846 
+[10][6124] Error: 0.001932 
+[10][6124] Accumulated Error: 0.002847 
+[10][6125] Error: 0.000665 
+[10][6125] Accumulated Error: 0.002848 
+[10][6126] Error: 0.000013 
+[10][6126] Accumulated Error: 0.002846 
+[10][6127] Error: 0.000509 
+[10][6127] Accumulated Error: 0.002847 
+[10][6128] Error: 0.000071 
+[10][6128] Accumulated Error: 0.002847 
+[10][6129] Error: 0.003227 
+[10][6129] Accumulated Error: 0.002850 
+[10][6130] Error: 0.017575 
+[10][6130] Accumulated Error: 0.002868 
+[10][6131] Error: 0.002830 
+[10][6131] Accumulated Error: 0.002871 
+[10][6132] Error: 0.000593 
+[10][6132] Accumulated Error: 0.002871 
+[10][6133] Error: 0.031087 
+[10][6133] Accumulated Error: 0.002902 
+[10][6134] Error: 0.000027 
+[10][6134] Accumulated Error: 0.002902 
+[10][6135] Error: 0.000856 
+[10][6135] Accumulated Error: 0.002903 
+[10][6136] Error: 0.000402 
+[10][6136] Accumulated Error: 0.002900 
+[10][6137] Error: 0.000099 
+[10][6137] Accumulated Error: 0.002898 
+[10][6138] Error: 0.000254 
+[10][6138] Accumulated Error: 0.002898 
+[10][6139] Error: 0.002218 
+[10][6139] Accumulated Error: 0.002900 
+[10][6140] Error: 0.001846 
+[10][6140] Accumulated Error: 0.002902 
+[10][6141] Error: 0.000292 
+[10][6141] Accumulated Error: 0.002902 
+[10][6142] Error: 0.000088 
+[10][6142] Accumulated Error: 0.002902 
+[10][6143] Error: 0.000485 
+[10][6143] Accumulated Error: 0.002902 
+[10][6144] Error: 0.000106 
+[10][6144] Accumulated Error: 0.002902 
+[10][6145] Error: 0.000275 
+[10][6145] Accumulated Error: 0.002903 
+[10][6146] Error: 0.000593 
+[10][6146] Accumulated Error: 0.002903 
+[10][6147] Error: 0.012878 
+[10][6147] Accumulated Error: 0.002916 
+[10][6148] Error: 0.000202 
+[10][6148] Accumulated Error: 0.002916 
+[10][6149] Error: 0.000233 
+[10][6149] Accumulated Error: 0.002916 
+[10][6150] Error: 0.001494 
+[10][6150] Accumulated Error: 0.002917 
+[10][6151] Error: 0.000002 
+[10][6151] Accumulated Error: 0.002917 
+[10][6152] Error: 0.000088 
+[10][6152] Accumulated Error: 0.002917 
+[10][6153] Error: 0.000003 
+[10][6153] Accumulated Error: 0.002917 
+[10][6154] Error: 0.000050 
+[10][6154] Accumulated Error: 0.002915 
+[10][6155] Error: 0.000184 
+[10][6155] Accumulated Error: 0.002915 
+[10][6156] Error: 0.000008 
+[10][6156] Accumulated Error: 0.002915 
+[10][6157] Error: 0.000058 
+[10][6157] Accumulated Error: 0.002915 
+[10][6158] Error: 0.001055 
+[10][6158] Accumulated Error: 0.002916 
+[10][6159] Error: 0.000286 
+[10][6159] Accumulated Error: 0.002916 
+[10][6160] Error: 0.000707 
+[10][6160] Accumulated Error: 0.002917 
+[10][6161] Error: 0.006629 
+[10][6161] Accumulated Error: 0.002923 
+[10][6162] Error: 0.003075 
+[10][6162] Accumulated Error: 0.002919 
+[10][6163] Error: 0.000013 
+[10][6163] Accumulated Error: 0.002919 
+[10][6164] Error: 0.000049 
+[10][6164] Accumulated Error: 0.002919 
+[10][6165] Error: 0.000037 
+[10][6165] Accumulated Error: 0.002918 
+[10][6166] Error: 0.000152 
+[10][6166] Accumulated Error: 0.002918 
+[10][6167] Error: 0.001208 
+[10][6167] Accumulated Error: 0.002919 
+[10][6168] Error: 0.000060 
+[10][6168] Accumulated Error: 0.002919 
+[10][6169] Error: 0.000107 
+[10][6169] Accumulated Error: 0.002919 
+[10][6170] Error: 0.001283 
+[10][6170] Accumulated Error: 0.002920 
+[10][6171] Error: 0.001139 
+[10][6171] Accumulated Error: 0.002921 
+[10][6172] Error: 0.000097 
+[10][6172] Accumulated Error: 0.002921 
+[10][6173] Error: 0.000957 
+[10][6173] Accumulated Error: 0.002911 
+[10][6174] Error: 0.000005 
+[10][6174] Accumulated Error: 0.002910 
+[10][6175] Error: 0.000398 
+[10][6175] Accumulated Error: 0.002910 
+[10][6176] Error: 0.000058 
+[10][6176] Accumulated Error: 0.002910 
+[10][6177] Error: 0.000013 
+[10][6177] Accumulated Error: 0.002910 
+[10][6178] Error: 0.001723 
+[10][6178] Accumulated Error: 0.002912 
+[10][6179] Error: 0.000706 
+[10][6179] Accumulated Error: 0.002906 
+[10][6180] Error: 0.000117 
+[10][6180] Accumulated Error: 0.002906 
+[10][6181] Error: 0.000049 
+[10][6181] Accumulated Error: 0.002905 
+[10][6182] Error: 0.000957 
+[10][6182] Accumulated Error: 0.002906 
+[10][6183] Error: 0.000007 
+[10][6183] Accumulated Error: 0.002906 
+[10][6184] Error: 0.001658 
+[10][6184] Accumulated Error: 0.002906 
+[10][6185] Error: 0.000229 
+[10][6185] Accumulated Error: 0.002906 
+[10][6186] Error: 0.006219 
+[10][6186] Accumulated Error: 0.002910 
+[10][6187] Error: 0.000027 
+[10][6187] Accumulated Error: 0.002910 
+[10][6188] Error: 0.000020 
+[10][6188] Accumulated Error: 0.002853 
+[10][6189] Error: 0.000096 
+[10][6189] Accumulated Error: 0.002853 
+[10][6190] Error: 0.000043 
+[10][6190] Accumulated Error: 0.002853 
+[10][6191] Error: 0.000089 
+[10][6191] Accumulated Error: 0.002853 
+[10][6192] Error: 0.000241 
+[10][6192] Accumulated Error: 0.002853 
+[10][6193] Error: 0.000255 
+[10][6193] Accumulated Error: 0.002854 
+[10][6194] Error: 0.000167 
+[10][6194] Accumulated Error: 0.002834 
+[10][6195] Error: 0.000617 
+[10][6195] Accumulated Error: 0.002832 
+[10][6196] Error: 0.000237 
+[10][6196] Accumulated Error: 0.002832 
+[10][6197] Error: 0.000009 
+[10][6197] Accumulated Error: 0.002832 
+[10][6198] Error: 0.000048 
+[10][6198] Accumulated Error: 0.002830 
+[10][6199] Error: 0.000087 
+[10][6199] Accumulated Error: 0.002830 
+[10][6200] Error: 0.000025 
+[10][6200] Accumulated Error: 0.002830 
+[10][6201] Error: 0.000143 
+[10][6201] Accumulated Error: 0.002830 
+[10][6202] Error: 0.000177 
+[10][6202] Accumulated Error: 0.002830 
+[10][6203] Error: 0.000021 
+[10][6203] Accumulated Error: 0.002830 
+[10][6204] Error: 0.000444 
+[10][6204] Accumulated Error: 0.002830 
+[10][6205] Error: 0.000070 
+[10][6205] Accumulated Error: 0.002830 
+[10][6206] Error: 0.000291 
+[10][6206] Accumulated Error: 0.002830 
+[10][6207] Error: 0.001702 
+[10][6207] Accumulated Error: 0.002832 
+[10][6208] Error: 0.000052 
+[10][6208] Accumulated Error: 0.002832 
+[10][6209] Error: 0.000079 
+[10][6209] Accumulated Error: 0.002825 
+[10][6210] Error: 0.000470 
+[10][6210] Accumulated Error: 0.002825 
+[10][6211] Error: 0.023742 
+[10][6211] Accumulated Error: 0.002849 
+[10][6212] Error: 0.000589 
+[10][6212] Accumulated Error: 0.002848 
+[10][6213] Error: 0.000003 
+[10][6213] Accumulated Error: 0.002847 
+[10][6214] Error: 0.000409 
+[10][6214] Accumulated Error: 0.002848 
+[10][6215] Error: 0.000029 
+[10][6215] Accumulated Error: 0.002847 
+[10][6216] Error: 0.000020 
+[10][6216] Accumulated Error: 0.002847 
+[10][6217] Error: 0.000438 
+[10][6217] Accumulated Error: 0.002847 
+[10][6218] Error: 0.000041 
+[10][6218] Accumulated Error: 0.002845 
+[10][6219] Error: 0.000008 
+[10][6219] Accumulated Error: 0.002845 
+[10][6220] Error: 0.003760 
+[10][6220] Accumulated Error: 0.002849 
+[10][6221] Error: 0.001072 
+[10][6221] Accumulated Error: 0.002850 
+[10][6222] Error: 0.000003 
+[10][6222] Accumulated Error: 0.002849 
+[10][6223] Error: 0.000244 
+[10][6223] Accumulated Error: 0.002849 
+[10][6224] Error: 0.000223 
+[10][6224] Accumulated Error: 0.002846 
+[10][6225] Error: 0.000087 
+[10][6225] Accumulated Error: 0.002845 
+[10][6226] Error: 0.000159 
+[10][6226] Accumulated Error: 0.002845 
+[10][6227] Error: 0.000638 
+[10][6227] Accumulated Error: 0.002845 
+[10][6228] Error: 0.000048 
+[10][6228] Accumulated Error: 0.002845 
+[10][6229] Error: 0.000044 
+[10][6229] Accumulated Error: 0.002845 
+[10][6230] Error: 0.000001 
+[10][6230] Accumulated Error: 0.002845 
+[10][6231] Error: 0.000180 
+[10][6231] Accumulated Error: 0.002845 
+[10][6232] Error: 0.000117 
+[10][6232] Accumulated Error: 0.002844 
+[10][6233] Error: 0.000031 
+[10][6233] Accumulated Error: 0.002838 
+[10][6234] Error: 0.000010 
+[10][6234] Accumulated Error: 0.002838 
+[10][6235] Error: 0.000023 
+[10][6235] Accumulated Error: 0.002827 
+[10][6236] Error: 0.000128 
+[10][6236] Accumulated Error: 0.002783 
+[10][6237] Error: 0.000033 
+[10][6237] Accumulated Error: 0.002782 
+[10][6238] Error: 0.001362 
+[10][6238] Accumulated Error: 0.002783 
+[10][6239] Error: 0.003379 
+[10][6239] Accumulated Error: 0.002787 
+[10][6240] Error: 0.007266 
+[10][6240] Accumulated Error: 0.002794 
+[10][6241] Error: 0.000212 
+[10][6241] Accumulated Error: 0.002793 
+[10][6242] Error: 0.000049 
+[10][6242] Accumulated Error: 0.002793 
+[10][6243] Error: 0.000082 
+[10][6243] Accumulated Error: 0.002739 
+[10][6244] Error: 0.000140 
+[10][6244] Accumulated Error: 0.002738 
+[10][6245] Error: 0.002219 
+[10][6245] Accumulated Error: 0.002731 
+[10][6246] Error: 0.000247 
+[10][6246] Accumulated Error: 0.002731 
+[10][6247] Error: 0.004081 
+[10][6247] Accumulated Error: 0.002733 
+[10][6248] Error: 0.000610 
+[10][6248] Accumulated Error: 0.002734 
+[10][6249] Error: 0.000074 
+[10][6249] Accumulated Error: 0.002734 
+[10][6250] Error: 0.000129 
+[10][6250] Accumulated Error: 0.002734 
+[10][6251] Error: 0.000323 
+[10][6251] Accumulated Error: 0.002734 
+[10][6252] Error: 0.000006 
+[10][6252] Accumulated Error: 0.002734 
+[10][6253] Error: 0.000066 
+[10][6253] Accumulated Error: 0.002734 
+[10][6254] Error: 0.000024 
+[10][6254] Accumulated Error: 0.002731 
+[10][6255] Error: 0.000069 
+[10][6255] Accumulated Error: 0.002731 
+[10][6256] Error: 0.000562 
+[10][6256] Accumulated Error: 0.002732 
+[10][6257] Error: 0.000025 
+[10][6257] Accumulated Error: 0.002730 
+[10][6258] Error: 0.012694 
+[10][6258] Accumulated Error: 0.002743 
+[10][6259] Error: 0.000054 
+[10][6259] Accumulated Error: 0.002743 
+[10][6260] Error: 0.000038 
+[10][6260] Accumulated Error: 0.002741 
+[10][6261] Error: 0.000040 
+[10][6261] Accumulated Error: 0.002736 
+[10][6262] Error: 0.000016 
+[10][6262] Accumulated Error: 0.002735 
+[10][6263] Error: 0.000174 
+[10][6263] Accumulated Error: 0.002734 
+[10][6264] Error: 0.001366 
+[10][6264] Accumulated Error: 0.002735 
+[10][6265] Error: 0.007767 
+[10][6265] Accumulated Error: 0.002743 
+[10][6266] Error: 0.013758 
+[10][6266] Accumulated Error: 0.002755 
+[10][6267] Error: 0.000114 
+[10][6267] Accumulated Error: 0.002755 
+[10][6268] Error: 0.000945 
+[10][6268] Accumulated Error: 0.002755 
+[10][6269] Error: 0.006888 
+[10][6269] Accumulated Error: 0.002762 
+[10][6270] Error: 0.000041 
+[10][6270] Accumulated Error: 0.002761 
+[10][6271] Error: 0.013479 
+[10][6271] Accumulated Error: 0.002775 
+[10][6272] Error: 0.000190 
+[10][6272] Accumulated Error: 0.002775 
+[10][6273] Error: 0.000133 
+[10][6273] Accumulated Error: 0.002766 
+[10][6274] Error: 0.000042 
+[10][6274] Accumulated Error: 0.002765 
+[10][6275] Error: 0.000144 
+[10][6275] Accumulated Error: 0.002765 
+[10][6276] Error: 0.000314 
+[10][6276] Accumulated Error: 0.002765 
+[10][6277] Error: 0.000134 
+[10][6277] Accumulated Error: 0.002765 
+[10][6278] Error: 0.001717 
+[10][6278] Accumulated Error: 0.002766 
+[10][6279] Error: 0.008803 
+[10][6279] Accumulated Error: 0.002775 
+[10][6280] Error: 0.000078 
+[10][6280] Accumulated Error: 0.002775 
+[10][6281] Error: 0.000038 
+[10][6281] Accumulated Error: 0.002775 
+[10][6282] Error: 0.000076 
+[10][6282] Accumulated Error: 0.002774 
+[10][6283] Error: 0.000039 
+[10][6283] Accumulated Error: 0.002774 
+[10][6284] Error: 0.018822 
+[10][6284] Accumulated Error: 0.002791 
+[10][6285] Error: 0.002936 
+[10][6285] Accumulated Error: 0.002794 
+[10][6286] Error: 0.001136 
+[10][6286] Accumulated Error: 0.002795 
+[10][6287] Error: 0.000152 
+[10][6287] Accumulated Error: 0.002794 
+[10][6288] Error: 0.000007 
+[10][6288] Accumulated Error: 0.002794 
+[10][6289] Error: 0.000024 
+[10][6289] Accumulated Error: 0.002794 
+[10][6290] Error: 0.000179 
+[10][6290] Accumulated Error: 0.002794 
+[10][6291] Error: 0.000099 
+[10][6291] Accumulated Error: 0.002794 
+[10][6292] Error: 0.000024 
+[10][6292] Accumulated Error: 0.002792 
+[10][6293] Error: 0.002424 
+[10][6293] Accumulated Error: 0.002795 
+[10][6294] Error: 0.000050 
+[10][6294] Accumulated Error: 0.002795 
+[10][6295] Error: 0.000099 
+[10][6295] Accumulated Error: 0.002794 
+[10][6296] Error: 0.000021 
+[10][6296] Accumulated Error: 0.002794 
+[10][6297] Error: 0.000351 
+[10][6297] Accumulated Error: 0.002794 
+[10][6298] Error: 0.000671 
+[10][6298] Accumulated Error: 0.002794 
+[10][6299] Error: 0.000334 
+[10][6299] Accumulated Error: 0.002795 
+[10][6300] Error: 0.003364 
+[10][6300] Accumulated Error: 0.002795 
+[10][6301] Error: 0.000100 
+[10][6301] Accumulated Error: 0.002795 
+[10][6302] Error: 0.000377 
+[10][6302] Accumulated Error: 0.002795 
+[10][6303] Error: 0.000022 
+[10][6303] Accumulated Error: 0.002794 
+[10][6304] Error: 0.000002 
+[10][6304] Accumulated Error: 0.002794 
+[10][6305] Error: 0.000050 
+[10][6305] Accumulated Error: 0.002793 
+[10][6306] Error: 0.000118 
+[10][6306] Accumulated Error: 0.002794 
+[10][6307] Error: 0.000955 
+[10][6307] Accumulated Error: 0.002794 
+[10][6308] Error: 0.000211 
+[10][6308] Accumulated Error: 0.002794 
+[10][6309] Error: 0.000225 
+[10][6309] Accumulated Error: 0.002794 
+[10][6310] Error: 0.001034 
+[10][6310] Accumulated Error: 0.002795 
+[10][6311] Error: 0.003872 
+[10][6311] Accumulated Error: 0.002799 
+[10][6312] Error: 0.000457 
+[10][6312] Accumulated Error: 0.002799 
+[10][6313] Error: 0.000346 
+[10][6313] Accumulated Error: 0.002798 
+[10][6314] Error: 0.010920 
+[10][6314] Accumulated Error: 0.002809 
+[10][6315] Error: 0.000102 
+[10][6315] Accumulated Error: 0.002808 
+[10][6316] Error: 0.000540 
+[10][6316] Accumulated Error: 0.002809 
+[10][6317] Error: 0.000322 
+[10][6317] Accumulated Error: 0.002809 
+[10][6318] Error: 0.000448 
+[10][6318] Accumulated Error: 0.002810 
+[10][6319] Error: 0.000177 
+[10][6319] Accumulated Error: 0.002810 
+[10][6320] Error: 0.000074 
+[10][6320] Accumulated Error: 0.002810 
+[10][6321] Error: 0.000007 
+[10][6321] Accumulated Error: 0.002807 
+[10][6322] Error: 0.000129 
+[10][6322] Accumulated Error: 0.002807 
+[10][6323] Error: 0.000087 
+[10][6323] Accumulated Error: 0.002804 
+[10][6324] Error: 0.000301 
+[10][6324] Accumulated Error: 0.002804 
+[10][6325] Error: 0.000049 
+[10][6325] Accumulated Error: 0.002804 
+[10][6326] Error: 0.000036 
+[10][6326] Accumulated Error: 0.002804 
+[10][6327] Error: 0.000050 
+[10][6327] Accumulated Error: 0.002804 
+[10][6328] Error: 0.000022 
+[10][6328] Accumulated Error: 0.002804 
+[10][6329] Error: 0.000882 
+[10][6329] Accumulated Error: 0.002805 
+[10][6330] Error: 0.000052 
+[10][6330] Accumulated Error: 0.002804 
+[10][6331] Error: 0.000100 
+[10][6331] Accumulated Error: 0.002799 
+[10][6332] Error: 0.000011 
+[10][6332] Accumulated Error: 0.002798 
+[10][6333] Error: 0.000049 
+[10][6333] Accumulated Error: 0.002798 
+[10][6334] Error: 0.000024 
+[10][6334] Accumulated Error: 0.002798 
+[10][6335] Error: 0.000043 
+[10][6335] Accumulated Error: 0.002798 
+[10][6336] Error: 0.001782 
+[10][6336] Accumulated Error: 0.002800 
+[10][6337] Error: 0.000199 
+[10][6337] Accumulated Error: 0.002800 
+[10][6338] Error: 0.000007 
+[10][6338] Accumulated Error: 0.002799 
+[10][6339] Error: 0.000003 
+[10][6339] Accumulated Error: 0.002796 
+[10][6340] Error: 0.000016 
+[10][6340] Accumulated Error: 0.002783 
+[10][6341] Error: 0.000030 
+[10][6341] Accumulated Error: 0.002783 
+[10][6342] Error: 0.000001 
+[10][6342] Accumulated Error: 0.002783 
+[10][6343] Error: 0.000008 
+[10][6343] Accumulated Error: 0.002783 
+[10][6344] Error: 0.000072 
+[10][6344] Accumulated Error: 0.002783 
+[10][6345] Error: 0.000108 
+[10][6345] Accumulated Error: 0.002782 
+[10][6346] Error: 0.000060 
+[10][6346] Accumulated Error: 0.002782 
+[10][6347] Error: 0.007709 
+[10][6347] Accumulated Error: 0.002789 
+[10][6348] Error: 0.000122 
+[10][6348] Accumulated Error: 0.002789 
+[10][6349] Error: 0.000113 
+[10][6349] Accumulated Error: 0.002789 
+[10][6350] Error: 0.000462 
+[10][6350] Accumulated Error: 0.002785 
+[10][6351] Error: 0.000090 
+[10][6351] Accumulated Error: 0.002785 
+[10][6352] Error: 0.000008 
+[10][6352] Accumulated Error: 0.002784 
+[10][6353] Error: 0.006324 
+[10][6353] Accumulated Error: 0.002791 
+[10][6354] Error: 0.000447 
+[10][6354] Accumulated Error: 0.002790 
+[10][6355] Error: 0.001841 
+[10][6355] Accumulated Error: 0.002791 
+[10][6356] Error: 0.000018 
+[10][6356] Accumulated Error: 0.002790 
+[10][6357] Error: 0.000010 
+[10][6357] Accumulated Error: 0.002790 
+[10][6358] Error: 0.000212 
+[10][6358] Accumulated Error: 0.002790 
+[10][6359] Error: 0.000022 
+[10][6359] Accumulated Error: 0.002790 
+[10][6360] Error: 0.000050 
+[10][6360] Accumulated Error: 0.002790 
+[10][6361] Error: 0.000063 
+[10][6361] Accumulated Error: 0.002789 
+[10][6362] Error: 0.000195 
+[10][6362] Accumulated Error: 0.002789 
+[10][6363] Error: 0.000005 
+[10][6363] Accumulated Error: 0.002788 
+[10][6364] Error: 0.000011 
+[10][6364] Accumulated Error: 0.002788 
+[10][6365] Error: 0.002802 
+[10][6365] Accumulated Error: 0.002791 
+[10][6366] Error: 0.000005 
+[10][6366] Accumulated Error: 0.002791 
+[10][6367] Error: 0.000019 
+[10][6367] Accumulated Error: 0.002791 
+[10][6368] Error: 0.000219 
+[10][6368] Accumulated Error: 0.002791 
+[10][6369] Error: 0.000114 
+[10][6369] Accumulated Error: 0.002790 
+[10][6370] Error: 0.000150 
+[10][6370] Accumulated Error: 0.002790 
+[10][6371] Error: 0.000040 
+[10][6371] Accumulated Error: 0.002790 
+[10][6372] Error: 0.003407 
+[10][6372] Accumulated Error: 0.002794 
+[10][6373] Error: 0.000050 
+[10][6373] Accumulated Error: 0.002793 
+[10][6374] Error: 0.001446 
+[10][6374] Accumulated Error: 0.002794 
+[10][6375] Error: 0.000421 
+[10][6375] Accumulated Error: 0.002795 
+[10][6376] Error: 0.000890 
+[10][6376] Accumulated Error: 0.002795 
+[10][6377] Error: 0.000136 
+[10][6377] Accumulated Error: 0.002796 
+[10][6378] Error: 0.000125 
+[10][6378] Accumulated Error: 0.002794 
+[10][6379] Error: 0.000730 
+[10][6379] Accumulated Error: 0.002795 
+[10][6380] Error: 0.000016 
+[10][6380] Accumulated Error: 0.002795 
+[10][6381] Error: 0.004426 
+[10][6381] Accumulated Error: 0.002799 
+[10][6382] Error: 0.000046 
+[10][6382] Accumulated Error: 0.002799 
+[10][6383] Error: 0.001320 
+[10][6383] Accumulated Error: 0.002800 
+[10][6384] Error: 0.004502 
+[10][6384] Accumulated Error: 0.002805 
+[10][6385] Error: 0.000020 
+[10][6385] Accumulated Error: 0.002805 
+[10][6386] Error: 0.001938 
+[10][6386] Accumulated Error: 0.002806 
+[10][6387] Error: 0.000029 
+[10][6387] Accumulated Error: 0.002804 
+[10][6388] Error: 0.010756 
+[10][6388] Accumulated Error: 0.002815 
+[10][6389] Error: 0.000002 
+[10][6389] Accumulated Error: 0.002809 
+[10][6390] Error: 0.001411 
+[10][6390] Accumulated Error: 0.002811 
+[10][6391] Error: 0.000013 
+[10][6391] Accumulated Error: 0.002811 
+[10][6392] Error: 0.001015 
+[10][6392] Accumulated Error: 0.002812 
+[10][6393] Error: 0.000019 
+[10][6393] Accumulated Error: 0.002812 
+[10][6394] Error: 0.000453 
+[10][6394] Accumulated Error: 0.002812 
+[10][6395] Error: 0.000472 
+[10][6395] Accumulated Error: 0.002812 
+[10][6396] Error: 0.000025 
+[10][6396] Accumulated Error: 0.002812 
+[10][6397] Error: 0.000471 
+[10][6397] Accumulated Error: 0.002813 
+[10][6398] Error: 0.001164 
+[10][6398] Accumulated Error: 0.002814 
+[10][6399] Error: 0.000540 
+[10][6399] Accumulated Error: 0.002814 
+[10][6400] Error: 0.000003 
+[10][6400] Accumulated Error: 0.002813 
+[10][6401] Error: 0.000058 
+[10][6401] Accumulated Error: 0.002813 
+[10][6402] Error: 0.000018 
+[10][6402] Accumulated Error: 0.002813 
+[10][6403] Error: 0.000212 
+[10][6403] Accumulated Error: 0.002813 
+[10][6404] Error: 0.000030 
+[10][6404] Accumulated Error: 0.002813 
+[10][6405] Error: 0.000038 
+[10][6405] Accumulated Error: 0.002809 
+[10][6406] Error: 0.000596 
+[10][6406] Accumulated Error: 0.002810 
+[10][6407] Error: 0.000070 
+[10][6407] Accumulated Error: 0.002810 
+[10][6408] Error: 0.001230 
+[10][6408] Accumulated Error: 0.002811 
+[10][6409] Error: 0.000135 
+[10][6409] Accumulated Error: 0.002811 
+[10][6410] Error: 0.000387 
+[10][6410] Accumulated Error: 0.002811 
+[10][6411] Error: 0.000008 
+[10][6411] Accumulated Error: 0.002810 
+[10][6412] Error: 0.002146 
+[10][6412] Accumulated Error: 0.002812 
+[10][6413] Error: 0.006746 
+[10][6413] Accumulated Error: 0.002818 
+[10][6414] Error: 0.000364 
+[10][6414] Accumulated Error: 0.002819 
+[10][6415] Error: 0.000126 
+[10][6415] Accumulated Error: 0.002818 
+[10][6416] Error: 0.000037 
+[10][6416] Accumulated Error: 0.002818 
+[10][6417] Error: 0.000136 
+[10][6417] Accumulated Error: 0.002817 
+[10][6418] Error: 0.001226 
+[10][6418] Accumulated Error: 0.002818 
+[10][6419] Error: 0.000273 
+[10][6419] Accumulated Error: 0.002819 
+[10][6420] Error: 0.000149 
+[10][6420] Accumulated Error: 0.002819 
+[10][6421] Error: 0.000011 
+[10][6421] Accumulated Error: 0.002818 
+[10][6422] Error: 0.004208 
+[10][6422] Accumulated Error: 0.002823 
+[10][6423] Error: 0.000017 
+[10][6423] Accumulated Error: 0.002823 
+[10][6424] Error: 0.000056 
+[10][6424] Accumulated Error: 0.002822 
+[10][6425] Error: 0.000025 
+[10][6425] Accumulated Error: 0.002822 
+[10][6426] Error: 0.000056 
+[10][6426] Accumulated Error: 0.002822 
+[10][6427] Error: 0.000105 
+[10][6427] Accumulated Error: 0.002822 
+[10][6428] Error: 0.000452 
+[10][6428] Accumulated Error: 0.002822 
+[10][6429] Error: 0.000042 
+[10][6429] Accumulated Error: 0.002822 
+[10][6430] Error: 0.000857 
+[10][6430] Accumulated Error: 0.002819 
+[10][6431] Error: 0.001872 
+[10][6431] Accumulated Error: 0.002821 
+[10][6432] Error: 0.000070 
+[10][6432] Accumulated Error: 0.002821 
+[10][6433] Error: 0.000062 
+[10][6433] Accumulated Error: 0.002821 
+[10][6434] Error: 0.000022 
+[10][6434] Accumulated Error: 0.002815 
+[10][6435] Error: 0.000402 
+[10][6435] Accumulated Error: 0.002815 
+[10][6436] Error: 0.000236 
+[10][6436] Accumulated Error: 0.002813 
+[10][6437] Error: 0.000013 
+[10][6437] Accumulated Error: 0.002812 
+[10][6438] Error: 0.000005 
+[10][6438] Accumulated Error: 0.002812 
+[10][6439] Error: 0.000004 
+[10][6439] Accumulated Error: 0.002812 
+[10][6440] Error: 0.000018 
+[10][6440] Accumulated Error: 0.002812 
+[10][6441] Error: 0.000155 
+[10][6441] Accumulated Error: 0.002812 
+[10][6442] Error: 0.000036 
+[10][6442] Accumulated Error: 0.002812 
+[10][6443] Error: 0.000088 
+[10][6443] Accumulated Error: 0.002812 
+[10][6444] Error: 0.000401 
+[10][6444] Accumulated Error: 0.002812 
+[10][6445] Error: 0.000023 
+[10][6445] Accumulated Error: 0.002811 
+[10][6446] Error: 0.000037 
+[10][6446] Accumulated Error: 0.002811 
+[10][6447] Error: 0.000002 
+[10][6447] Accumulated Error: 0.002810 
+[10][6448] Error: 0.000352 
+[10][6448] Accumulated Error: 0.002810 
+[10][6449] Error: 0.000034 
+[10][6449] Accumulated Error: 0.002810 
+[10][6450] Error: 0.001040 
+[10][6450] Accumulated Error: 0.002808 
+[10][6451] Error: 0.000027 
+[10][6451] Accumulated Error: 0.002807 
+[10][6452] Error: 0.006032 
+[10][6452] Accumulated Error: 0.002813 
+[10][6453] Error: 0.000084 
+[10][6453] Accumulated Error: 0.002813 
+[10][6454] Error: 0.000412 
+[10][6454] Accumulated Error: 0.002814 
+[10][6455] Error: 0.000067 
+[10][6455] Accumulated Error: 0.002813 
+[10][6456] Error: 0.000264 
+[10][6456] Accumulated Error: 0.002813 
+[10][6457] Error: 0.000029 
+[10][6457] Accumulated Error: 0.002813 
+[10][6458] Error: 0.000149 
+[10][6458] Accumulated Error: 0.002800 
+[10][6459] Error: 0.000040 
+[10][6459] Accumulated Error: 0.002800 
+[10][6460] Error: 0.001765 
+[10][6460] Accumulated Error: 0.002802 
+[10][6461] Error: 0.000823 
+[10][6461] Accumulated Error: 0.002803 
+[10][6462] Error: 0.000098 
+[10][6462] Accumulated Error: 0.002802 
+[10][6463] Error: 0.000150 
+[10][6463] Accumulated Error: 0.002802 
+[10][6464] Error: 0.000065 
+[10][6464] Accumulated Error: 0.002802 
+[10][6465] Error: 0.000070 
+[10][6465] Accumulated Error: 0.002802 
+[10][6466] Error: 0.000102 
+[10][6466] Accumulated Error: 0.002802 
+[10][6467] Error: 0.000005 
+[10][6467] Accumulated Error: 0.002802 
+[10][6468] Error: 0.006586 
+[10][6468] Accumulated Error: 0.002809 
+[10][6469] Error: 0.000047 
+[10][6469] Accumulated Error: 0.002809 
+[10][6470] Error: 0.013105 
+[10][6470] Accumulated Error: 0.002822 
+[10][6471] Error: 0.005019 
+[10][6471] Accumulated Error: 0.002826 
+[10][6472] Error: 0.000096 
+[10][6472] Accumulated Error: 0.002826 
+[10][6473] Error: 0.003696 
+[10][6473] Accumulated Error: 0.002830 
+[10][6474] Error: 0.000409 
+[10][6474] Accumulated Error: 0.002830 
+[10][6475] Error: 0.000121 
+[10][6475] Accumulated Error: 0.002830 
+[10][6476] Error: 0.000051 
+[10][6476] Accumulated Error: 0.002830 
+[10][6477] Error: 0.000174 
+[10][6477] Accumulated Error: 0.002828 
+[10][6478] Error: 0.000024 
+[10][6478] Accumulated Error: 0.002827 
+[10][6479] Error: 0.000047 
+[10][6479] Accumulated Error: 0.002827 
+[10][6480] Error: 0.000031 
+[10][6480] Accumulated Error: 0.002827 
+[10][6481] Error: 0.000017 
+[10][6481] Accumulated Error: 0.002827 
+[10][6482] Error: 0.000146 
+[10][6482] Accumulated Error: 0.002827 
+[10][6483] Error: 0.000027 
+[10][6483] Accumulated Error: 0.002825 
+[10][6484] Error: 0.000072 
+[10][6484] Accumulated Error: 0.002825 
+[10][6485] Error: 0.002665 
+[10][6485] Accumulated Error: 0.002828 
+[10][6486] Error: 0.000013 
+[10][6486] Accumulated Error: 0.002828 
+[10][6487] Error: 0.000277 
+[10][6487] Accumulated Error: 0.002827 
+[10][6488] Error: 0.000475 
+[10][6488] Accumulated Error: 0.002827 
+[10][6489] Error: 0.000032 
+[10][6489] Accumulated Error: 0.002826 
+[10][6490] Error: 0.000099 
+[10][6490] Accumulated Error: 0.002826 
+[10][6491] Error: 0.000711 
+[10][6491] Accumulated Error: 0.002827 
+[10][6492] Error: 0.000194 
+[10][6492] Accumulated Error: 0.002827 
+[10][6493] Error: 0.002926 
+[10][6493] Accumulated Error: 0.002829 
+[10][6494] Error: 0.000216 
+[10][6494] Accumulated Error: 0.002829 
+[10][6495] Error: 0.000024 
+[10][6495] Accumulated Error: 0.002829 
+[10][6496] Error: 0.000053 
+[10][6496] Accumulated Error: 0.002829 
+[10][6497] Error: 0.000458 
+[10][6497] Accumulated Error: 0.002830 
+[10][6498] Error: 0.000348 
+[10][6498] Accumulated Error: 0.002830 
+[10][6499] Error: 0.000016 
+[10][6499] Accumulated Error: 0.002830 
+[10][6500] Error: 0.000870 
+[10][6500] Accumulated Error: 0.002831 
+[10][6501] Error: 0.000023 
+[10][6501] Accumulated Error: 0.002826 
+[10][6502] Error: 0.000182 
+[10][6502] Accumulated Error: 0.002827 
+[10][6503] Error: 0.000304 
+[10][6503] Accumulated Error: 0.002827 
+[10][6504] Error: 0.000585 
+[10][6504] Accumulated Error: 0.002827 
+[10][6505] Error: 0.002406 
+[10][6505] Accumulated Error: 0.002829 
+[10][6506] Error: 0.000262 
+[10][6506] Accumulated Error: 0.002829 
+[10][6507] Error: 0.000361 
+[10][6507] Accumulated Error: 0.002830 
+[10][6508] Error: 0.000786 
+[10][6508] Accumulated Error: 0.002831 
+[10][6509] Error: 0.000217 
+[10][6509] Accumulated Error: 0.002830 
+[10][6510] Error: 0.000004 
+[10][6510] Accumulated Error: 0.002829 
+[10][6511] Error: 0.000002 
+[10][6511] Accumulated Error: 0.002829 
+[10][6512] Error: 0.008958 
+[10][6512] Accumulated Error: 0.002838 
+[10][6513] Error: 0.001535 
+[10][6513] Accumulated Error: 0.002840 
+[10][6514] Error: 0.000012 
+[10][6514] Accumulated Error: 0.002840 
+[10][6515] Error: 0.002106 
+[10][6515] Accumulated Error: 0.002842 
+[10][6516] Error: 0.000076 
+[10][6516] Accumulated Error: 0.002842 
+[10][6517] Error: 0.000007 
+[10][6517] Accumulated Error: 0.002841 
+[10][6518] Error: 0.000026 
+[10][6518] Accumulated Error: 0.002841 
+[10][6519] Error: 0.000052 
+[10][6519] Accumulated Error: 0.002841 
+[10][6520] Error: 0.000367 
+[10][6520] Accumulated Error: 0.002841 
+[10][6521] Error: 0.000011 
+[10][6521] Accumulated Error: 0.002841 
+[10][6522] Error: 0.000015 
+[10][6522] Accumulated Error: 0.002841 
+[10][6523] Error: 0.000441 
+[10][6523] Accumulated Error: 0.002842 
+[10][6524] Error: 0.000125 
+[10][6524] Accumulated Error: 0.002842 
+[10][6525] Error: 0.000015 
+[10][6525] Accumulated Error: 0.002842 
+[10][6526] Error: 0.000002 
+[10][6526] Accumulated Error: 0.002842 
+[10][6527] Error: 0.000022 
+[10][6527] Accumulated Error: 0.002841 
+[10][6528] Error: 0.000057 
+[10][6528] Accumulated Error: 0.002841 
+[10][6529] Error: 0.000127 
+[10][6529] Accumulated Error: 0.002841 
+[10][6530] Error: 0.000674 
+[10][6530] Accumulated Error: 0.002842 
+[10][6531] Error: 0.000125 
+[10][6531] Accumulated Error: 0.002842 
+[10][6532] Error: 0.000448 
+[10][6532] Accumulated Error: 0.002842 
+[10][6533] Error: 0.000011 
+[10][6533] Accumulated Error: 0.002842 
+[10][6534] Error: 0.000024 
+[10][6534] Accumulated Error: 0.002842 
+[10][6535] Error: 0.000546 
+[10][6535] Accumulated Error: 0.002843 
+[10][6536] Error: 0.000003 
+[10][6536] Accumulated Error: 0.002843 
+[10][6537] Error: 0.000170 
+[10][6537] Accumulated Error: 0.002842 
+[10][6538] Error: 0.000628 
+[10][6538] Accumulated Error: 0.002843 
+[10][6539] Error: 0.000383 
+[10][6539] Accumulated Error: 0.002843 
+[10][6540] Error: 0.001184 
+[10][6540] Accumulated Error: 0.002844 
+[10][6541] Error: 0.000237 
+[10][6541] Accumulated Error: 0.002845 
+[10][6542] Error: 0.000140 
+[10][6542] Accumulated Error: 0.002845 
+[10][6543] Error: 0.000012 
+[10][6543] Accumulated Error: 0.002845 
+[10][6544] Error: 0.000078 
+[10][6544] Accumulated Error: 0.002845 
+[10][6545] Error: 0.000045 
+[10][6545] Accumulated Error: 0.002845 
+[10][6546] Error: 0.000114 
+[10][6546] Accumulated Error: 0.002845 
+[10][6547] Error: 0.000088 
+[10][6547] Accumulated Error: 0.002844 
+[10][6548] Error: 0.000115 
+[10][6548] Accumulated Error: 0.002844 
+[10][6549] Error: 0.000591 
+[10][6549] Accumulated Error: 0.002845 
+[10][6550] Error: 0.000749 
+[10][6550] Accumulated Error: 0.002845 
+[10][6551] Error: 0.000118 
+[10][6551] Accumulated Error: 0.002846 
+[10][6552] Error: 0.000046 
+[10][6552] Accumulated Error: 0.002845 
+[10][6553] Error: 0.000095 
+[10][6553] Accumulated Error: 0.002843 
+[10][6554] Error: 0.000280 
+[10][6554] Accumulated Error: 0.002843 
+[10][6555] Error: 0.000683 
+[10][6555] Accumulated Error: 0.002844 
+[10][6556] Error: 0.003740 
+[10][6556] Accumulated Error: 0.002848 
+[10][6557] Error: 0.000130 
+[10][6557] Accumulated Error: 0.002847 
+[10][6558] Error: 0.000033 
+[10][6558] Accumulated Error: 0.002846 
+[10][6559] Error: 0.000011 
+[10][6559] Accumulated Error: 0.002846 
+[10][6560] Error: 0.000003 
+[10][6560] Accumulated Error: 0.002846 
+[10][6561] Error: 0.000028 
+[10][6561] Accumulated Error: 0.002846 
+[10][6562] Error: 0.000013 
+[10][6562] Accumulated Error: 0.002845 
+[10][6563] Error: 0.001927 
+[10][6563] Accumulated Error: 0.002847 
+[10][6564] Error: 0.000021 
+[10][6564] Accumulated Error: 0.002847 
+[10][6565] Error: 0.000052 
+[10][6565] Accumulated Error: 0.002847 
+[10][6566] Error: 0.013429 
+[10][6566] Accumulated Error: 0.002860 
+[10][6567] Error: 0.000002 
+[10][6567] Accumulated Error: 0.002860 
+[10][6568] Error: 0.000001 
+[10][6568] Accumulated Error: 0.002860 
+[10][6569] Error: 0.000057 
+[10][6569] Accumulated Error: 0.002860 
+[10][6570] Error: 0.000011 
+[10][6570] Accumulated Error: 0.002860 
+[10][6571] Error: 0.000014 
+[10][6571] Accumulated Error: 0.002860 
+[10][6572] Error: 0.000003 
+[10][6572] Accumulated Error: 0.002860 
+[10][6573] Error: 0.000164 
+[10][6573] Accumulated Error: 0.002860 
+[10][6574] Error: 0.004257 
+[10][6574] Accumulated Error: 0.002864 
+[10][6575] Error: 0.000012 
+[10][6575] Accumulated Error: 0.002864 
+[10][6576] Error: 0.006286 
+[10][6576] Accumulated Error: 0.002871 
+[10][6577] Error: 0.000030 
+[10][6577] Accumulated Error: 0.002871 
+[10][6578] Error: 0.000549 
+[10][6578] Accumulated Error: 0.002871 
+[10][6579] Error: 0.000002 
+[10][6579] Accumulated Error: 0.002871 
+[10][6580] Error: 0.000001 
+[10][6580] Accumulated Error: 0.002871 
+[10][6581] Error: 0.000449 
+[10][6581] Accumulated Error: 0.002871 
+[10][6582] Error: 0.000012 
+[10][6582] Accumulated Error: 0.002871 
+[10][6583] Error: 0.000000 
+[10][6583] Accumulated Error: 0.002871 
+[10][6584] Error: 0.000077 
+[10][6584] Accumulated Error: 0.002871 
+[10][6585] Error: 0.000100 
+[10][6585] Accumulated Error: 0.002871 
+[10][6586] Error: 0.000206 
+[10][6586] Accumulated Error: 0.002871 
+[10][6587] Error: 0.000055 
+[10][6587] Accumulated Error: 0.002871 
+[10][6588] Error: 0.000002 
+[10][6588] Accumulated Error: 0.002871 
+[10][6589] Error: 0.000128 
+[10][6589] Accumulated Error: 0.002871 
+[10][6590] Error: 0.001951 
+[10][6590] Accumulated Error: 0.002873 
+[10][6591] Error: 0.000000 
+[10][6591] Accumulated Error: 0.002872 
+[10][6592] Error: 0.000000 
+[10][6592] Accumulated Error: 0.002872 
+[10][6593] Error: 0.000000 
+[10][6593] Accumulated Error: 0.002872 
+[10][6594] Error: 0.000042 
+[10][6594] Accumulated Error: 0.002872 
+[10][6595] Error: 0.000610 
+[10][6595] Accumulated Error: 0.002872 
+[10][6596] Error: 0.000000 
+[10][6596] Accumulated Error: 0.002872 
+[10][6597] Error: 0.000022 
+[10][6597] Accumulated Error: 0.002872 
+[10][6598] Error: 0.000152 
+[10][6598] Accumulated Error: 0.002872 
+[10][6599] Error: 0.000005 
+[10][6599] Accumulated Error: 0.002872 
+[10][6600] Error: 0.000141 
+[10][6600] Accumulated Error: 0.002872 

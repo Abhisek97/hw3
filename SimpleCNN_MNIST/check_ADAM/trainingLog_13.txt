@@ -1,0 +1,1200 @@
+[13][7801] Error: 0.000049 
+[13][7801] Accumulated Error: 0.000126 
+[13][7802] Error: 0.000073 
+[13][7802] Accumulated Error: 0.000126 
+[13][7803] Error: 0.000017 
+[13][7803] Accumulated Error: 0.000126 
+[13][7804] Error: 0.000010 
+[13][7804] Accumulated Error: 0.000126 
+[13][7805] Error: 0.000072 
+[13][7805] Accumulated Error: 0.000126 
+[13][7806] Error: 0.000023 
+[13][7806] Accumulated Error: 0.000126 
+[13][7807] Error: 0.000005 
+[13][7807] Accumulated Error: 0.000126 
+[13][7808] Error: 0.000006 
+[13][7808] Accumulated Error: 0.000126 
+[13][7809] Error: 0.000001 
+[13][7809] Accumulated Error: 0.000125 
+[13][7810] Error: 0.000003 
+[13][7810] Accumulated Error: 0.000125 
+[13][7811] Error: 0.000088 
+[13][7811] Accumulated Error: 0.000125 
+[13][7812] Error: 0.000008 
+[13][7812] Accumulated Error: 0.000125 
+[13][7813] Error: 0.000008 
+[13][7813] Accumulated Error: 0.000125 
+[13][7814] Error: 0.000077 
+[13][7814] Accumulated Error: 0.000125 
+[13][7815] Error: 0.000044 
+[13][7815] Accumulated Error: 0.000125 
+[13][7816] Error: 0.000005 
+[13][7816] Accumulated Error: 0.000125 
+[13][7817] Error: 0.000086 
+[13][7817] Accumulated Error: 0.000125 
+[13][7818] Error: 0.000005 
+[13][7818] Accumulated Error: 0.000125 
+[13][7819] Error: 0.000022 
+[13][7819] Accumulated Error: 0.000124 
+[13][7820] Error: 0.000118 
+[13][7820] Accumulated Error: 0.000124 
+[13][7821] Error: 0.000038 
+[13][7821] Accumulated Error: 0.000124 
+[13][7822] Error: 0.000013 
+[13][7822] Accumulated Error: 0.000124 
+[13][7823] Error: 0.000068 
+[13][7823] Accumulated Error: 0.000124 
+[13][7824] Error: 0.000010 
+[13][7824] Accumulated Error: 0.000124 
+[13][7825] Error: 0.000029 
+[13][7825] Accumulated Error: 0.000124 
+[13][7826] Error: 0.000064 
+[13][7826] Accumulated Error: 0.000124 
+[13][7827] Error: 0.000090 
+[13][7827] Accumulated Error: 0.000124 
+[13][7828] Error: 0.000070 
+[13][7828] Accumulated Error: 0.000124 
+[13][7829] Error: 0.000013 
+[13][7829] Accumulated Error: 0.000124 
+[13][7830] Error: 0.000028 
+[13][7830] Accumulated Error: 0.000124 
+[13][7831] Error: 0.000001 
+[13][7831] Accumulated Error: 0.000124 
+[13][7832] Error: 0.000104 
+[13][7832] Accumulated Error: 0.000124 
+[13][7833] Error: 0.000013 
+[13][7833] Accumulated Error: 0.000124 
+[13][7834] Error: 0.000043 
+[13][7834] Accumulated Error: 0.000124 
+[13][7835] Error: 0.000053 
+[13][7835] Accumulated Error: 0.000124 
+[13][7836] Error: 0.000021 
+[13][7836] Accumulated Error: 0.000124 
+[13][7837] Error: 0.000160 
+[13][7837] Accumulated Error: 0.000124 
+[13][7838] Error: 0.000004 
+[13][7838] Accumulated Error: 0.000124 
+[13][7839] Error: 0.000006 
+[13][7839] Accumulated Error: 0.000114 
+[13][7840] Error: 0.000002 
+[13][7840] Accumulated Error: 0.000109 
+[13][7841] Error: 0.000167 
+[13][7841] Accumulated Error: 0.000109 
+[13][7842] Error: 0.000017 
+[13][7842] Accumulated Error: 0.000109 
+[13][7843] Error: 0.000011 
+[13][7843] Accumulated Error: 0.000109 
+[13][7844] Error: 0.000014 
+[13][7844] Accumulated Error: 0.000109 
+[13][7845] Error: 0.000097 
+[13][7845] Accumulated Error: 0.000109 
+[13][7846] Error: 0.000004 
+[13][7846] Accumulated Error: 0.000109 
+[13][7847] Error: 0.000004 
+[13][7847] Accumulated Error: 0.000109 
+[13][7848] Error: 0.000000 
+[13][7848] Accumulated Error: 0.000109 
+[13][7849] Error: 0.000003 
+[13][7849] Accumulated Error: 0.000109 
+[13][7850] Error: 0.000008 
+[13][7850] Accumulated Error: 0.000109 
+[13][7851] Error: 0.000152 
+[13][7851] Accumulated Error: 0.000109 
+[13][7852] Error: 0.000014 
+[13][7852] Accumulated Error: 0.000109 
+[13][7853] Error: 0.000014 
+[13][7853] Accumulated Error: 0.000109 
+[13][7854] Error: 0.000013 
+[13][7854] Accumulated Error: 0.000104 
+[13][7855] Error: 0.000022 
+[13][7855] Accumulated Error: 0.000104 
+[13][7856] Error: 0.000021 
+[13][7856] Accumulated Error: 0.000104 
+[13][7857] Error: 0.000100 
+[13][7857] Accumulated Error: 0.000104 
+[13][7858] Error: 0.000015 
+[13][7858] Accumulated Error: 0.000104 
+[13][7859] Error: 0.000053 
+[13][7859] Accumulated Error: 0.000104 
+[13][7860] Error: 0.000002 
+[13][7860] Accumulated Error: 0.000103 
+[13][7861] Error: 0.000012 
+[13][7861] Accumulated Error: 0.000103 
+[13][7862] Error: 0.000021 
+[13][7862] Accumulated Error: 0.000103 
+[13][7863] Error: 0.000069 
+[13][7863] Accumulated Error: 0.000103 
+[13][7864] Error: 0.000063 
+[13][7864] Accumulated Error: 0.000103 
+[13][7865] Error: 0.000020 
+[13][7865] Accumulated Error: 0.000096 
+[13][7866] Error: 0.000000 
+[13][7866] Accumulated Error: 0.000094 
+[13][7867] Error: 0.000039 
+[13][7867] Accumulated Error: 0.000094 
+[13][7868] Error: 0.000001 
+[13][7868] Accumulated Error: 0.000094 
+[13][7869] Error: 0.000071 
+[13][7869] Accumulated Error: 0.000093 
+[13][7870] Error: 0.000005 
+[13][7870] Accumulated Error: 0.000093 
+[13][7871] Error: 0.000021 
+[13][7871] Accumulated Error: 0.000093 
+[13][7872] Error: 0.000035 
+[13][7872] Accumulated Error: 0.000093 
+[13][7873] Error: 0.000097 
+[13][7873] Accumulated Error: 0.000093 
+[13][7874] Error: 0.000028 
+[13][7874] Accumulated Error: 0.000093 
+[13][7875] Error: 0.000033 
+[13][7875] Accumulated Error: 0.000093 
+[13][7876] Error: 0.000084 
+[13][7876] Accumulated Error: 0.000093 
+[13][7877] Error: 0.000034 
+[13][7877] Accumulated Error: 0.000093 
+[13][7878] Error: 0.000131 
+[13][7878] Accumulated Error: 0.000092 
+[13][7879] Error: 0.000013 
+[13][7879] Accumulated Error: 0.000092 
+[13][7880] Error: 0.000005 
+[13][7880] Accumulated Error: 0.000092 
+[13][7881] Error: 0.000052 
+[13][7881] Accumulated Error: 0.000091 
+[13][7882] Error: 0.000002 
+[13][7882] Accumulated Error: 0.000090 
+[13][7883] Error: 0.000075 
+[13][7883] Accumulated Error: 0.000090 
+[13][7884] Error: 0.000013 
+[13][7884] Accumulated Error: 0.000090 
+[13][7885] Error: 0.000024 
+[13][7885] Accumulated Error: 0.000090 
+[13][7886] Error: 0.000000 
+[13][7886] Accumulated Error: 0.000089 
+[13][7887] Error: 0.000080 
+[13][7887] Accumulated Error: 0.000089 
+[13][7888] Error: 0.000043 
+[13][7888] Accumulated Error: 0.000089 
+[13][7889] Error: 0.000102 
+[13][7889] Accumulated Error: 0.000089 
+[13][7890] Error: 0.000072 
+[13][7890] Accumulated Error: 0.000089 
+[13][7891] Error: 0.000050 
+[13][7891] Accumulated Error: 0.000089 
+[13][7892] Error: 0.000024 
+[13][7892] Accumulated Error: 0.000089 
+[13][7893] Error: 0.000022 
+[13][7893] Accumulated Error: 0.000089 
+[13][7894] Error: 0.000026 
+[13][7894] Accumulated Error: 0.000088 
+[13][7895] Error: 0.000057 
+[13][7895] Accumulated Error: 0.000088 
+[13][7896] Error: 0.000034 
+[13][7896] Accumulated Error: 0.000088 
+[13][7897] Error: 0.000021 
+[13][7897] Accumulated Error: 0.000088 
+[13][7898] Error: 0.000004 
+[13][7898] Accumulated Error: 0.000088 
+[13][7899] Error: 0.000000 
+[13][7899] Accumulated Error: 0.000087 
+[13][7900] Error: 0.000022 
+[13][7900] Accumulated Error: 0.000087 
+[13][7901] Error: 0.000236 
+[13][7901] Accumulated Error: 0.000088 
+[13][7902] Error: 0.000007 
+[13][7902] Accumulated Error: 0.000088 
+[13][7903] Error: 0.000175 
+[13][7903] Accumulated Error: 0.000088 
+[13][7904] Error: 0.000064 
+[13][7904] Accumulated Error: 0.000088 
+[13][7905] Error: 0.000002 
+[13][7905] Accumulated Error: 0.000088 
+[13][7906] Error: 0.000001 
+[13][7906] Accumulated Error: 0.000088 
+[13][7907] Error: 0.000000 
+[13][7907] Accumulated Error: 0.000088 
+[13][7908] Error: 0.000012 
+[13][7908] Accumulated Error: 0.000087 
+[13][7909] Error: 0.000069 
+[13][7909] Accumulated Error: 0.000088 
+[13][7910] Error: 0.000197 
+[13][7910] Accumulated Error: 0.000088 
+[13][7911] Error: 0.000001 
+[13][7911] Accumulated Error: 0.000088 
+[13][7912] Error: 0.000006 
+[13][7912] Accumulated Error: 0.000088 
+[13][7913] Error: 0.000078 
+[13][7913] Accumulated Error: 0.000088 
+[13][7914] Error: 0.000047 
+[13][7914] Accumulated Error: 0.000087 
+[13][7915] Error: 0.000001 
+[13][7915] Accumulated Error: 0.000087 
+[13][7916] Error: 0.000000 
+[13][7916] Accumulated Error: 0.000087 
+[13][7917] Error: 0.000008 
+[13][7917] Accumulated Error: 0.000087 
+[13][7918] Error: 0.000158 
+[13][7918] Accumulated Error: 0.000087 
+[13][7919] Error: 0.000075 
+[13][7919] Accumulated Error: 0.000087 
+[13][7920] Error: 0.000029 
+[13][7920] Accumulated Error: 0.000087 
+[13][7921] Error: 0.000011 
+[13][7921] Accumulated Error: 0.000087 
+[13][7922] Error: 0.000002 
+[13][7922] Accumulated Error: 0.000087 
+[13][7923] Error: 0.000021 
+[13][7923] Accumulated Error: 0.000087 
+[13][7924] Error: 0.000015 
+[13][7924] Accumulated Error: 0.000087 
+[13][7925] Error: 0.000007 
+[13][7925] Accumulated Error: 0.000087 
+[13][7926] Error: 0.000010 
+[13][7926] Accumulated Error: 0.000087 
+[13][7927] Error: 0.000008 
+[13][7927] Accumulated Error: 0.000087 
+[13][7928] Error: 0.000014 
+[13][7928] Accumulated Error: 0.000087 
+[13][7929] Error: 0.000027 
+[13][7929] Accumulated Error: 0.000086 
+[13][7930] Error: 0.000033 
+[13][7930] Accumulated Error: 0.000086 
+[13][7931] Error: 0.000015 
+[13][7931] Accumulated Error: 0.000086 
+[13][7932] Error: 0.000041 
+[13][7932] Accumulated Error: 0.000086 
+[13][7933] Error: 0.000000 
+[13][7933] Accumulated Error: 0.000086 
+[13][7934] Error: 0.000003 
+[13][7934] Accumulated Error: 0.000086 
+[13][7935] Error: 0.000001 
+[13][7935] Accumulated Error: 0.000086 
+[13][7936] Error: 0.000018 
+[13][7936] Accumulated Error: 0.000086 
+[13][7937] Error: 0.000027 
+[13][7937] Accumulated Error: 0.000086 
+[13][7938] Error: 0.000005 
+[13][7938] Accumulated Error: 0.000085 
+[13][7939] Error: 0.000045 
+[13][7939] Accumulated Error: 0.000086 
+[13][7940] Error: 0.000032 
+[13][7940] Accumulated Error: 0.000086 
+[13][7941] Error: 0.000064 
+[13][7941] Accumulated Error: 0.000085 
+[13][7942] Error: 0.000010 
+[13][7942] Accumulated Error: 0.000085 
+[13][7943] Error: 0.000002 
+[13][7943] Accumulated Error: 0.000085 
+[13][7944] Error: 0.000055 
+[13][7944] Accumulated Error: 0.000085 
+[13][7945] Error: 0.000005 
+[13][7945] Accumulated Error: 0.000085 
+[13][7946] Error: 0.000039 
+[13][7946] Accumulated Error: 0.000085 
+[13][7947] Error: 0.000002 
+[13][7947] Accumulated Error: 0.000085 
+[13][7948] Error: 0.000026 
+[13][7948] Accumulated Error: 0.000085 
+[13][7949] Error: 0.000059 
+[13][7949] Accumulated Error: 0.000085 
+[13][7950] Error: 0.000002 
+[13][7950] Accumulated Error: 0.000084 
+[13][7951] Error: 0.000000 
+[13][7951] Accumulated Error: 0.000084 
+[13][7952] Error: 0.000017 
+[13][7952] Accumulated Error: 0.000084 
+[13][7953] Error: 0.000000 
+[13][7953] Accumulated Error: 0.000083 
+[13][7954] Error: 0.000016 
+[13][7954] Accumulated Error: 0.000083 
+[13][7955] Error: 0.000040 
+[13][7955] Accumulated Error: 0.000083 
+[13][7956] Error: 0.000002 
+[13][7956] Accumulated Error: 0.000083 
+[13][7957] Error: 0.000010 
+[13][7957] Accumulated Error: 0.000083 
+[13][7958] Error: 0.000137 
+[13][7958] Accumulated Error: 0.000083 
+[13][7959] Error: 0.000006 
+[13][7959] Accumulated Error: 0.000083 
+[13][7960] Error: 0.000041 
+[13][7960] Accumulated Error: 0.000083 
+[13][7961] Error: 0.000041 
+[13][7961] Accumulated Error: 0.000083 
+[13][7962] Error: 0.000127 
+[13][7962] Accumulated Error: 0.000083 
+[13][7963] Error: 0.000002 
+[13][7963] Accumulated Error: 0.000083 
+[13][7964] Error: 0.000157 
+[13][7964] Accumulated Error: 0.000084 
+[13][7965] Error: 0.000002 
+[13][7965] Accumulated Error: 0.000083 
+[13][7966] Error: 0.000056 
+[13][7966] Accumulated Error: 0.000083 
+[13][7967] Error: 0.000011 
+[13][7967] Accumulated Error: 0.000083 
+[13][7968] Error: 0.000043 
+[13][7968] Accumulated Error: 0.000083 
+[13][7969] Error: 0.000002 
+[13][7969] Accumulated Error: 0.000083 
+[13][7970] Error: 0.000064 
+[13][7970] Accumulated Error: 0.000083 
+[13][7971] Error: 0.000035 
+[13][7971] Accumulated Error: 0.000082 
+[13][7972] Error: 0.000007 
+[13][7972] Accumulated Error: 0.000082 
+[13][7973] Error: 0.000010 
+[13][7973] Accumulated Error: 0.000082 
+[13][7974] Error: 0.000002 
+[13][7974] Accumulated Error: 0.000081 
+[13][7975] Error: 0.000003 
+[13][7975] Accumulated Error: 0.000081 
+[13][7976] Error: 0.000006 
+[13][7976] Accumulated Error: 0.000080 
+[13][7977] Error: 0.000007 
+[13][7977] Accumulated Error: 0.000080 
+[13][7978] Error: 0.000027 
+[13][7978] Accumulated Error: 0.000080 
+[13][7979] Error: 0.000008 
+[13][7979] Accumulated Error: 0.000080 
+[13][7980] Error: 0.000051 
+[13][7980] Accumulated Error: 0.000080 
+[13][7981] Error: 0.000014 
+[13][7981] Accumulated Error: 0.000080 
+[13][7982] Error: 0.000011 
+[13][7982] Accumulated Error: 0.000080 
+[13][7983] Error: 0.000007 
+[13][7983] Accumulated Error: 0.000079 
+[13][7984] Error: 0.000007 
+[13][7984] Accumulated Error: 0.000076 
+[13][7985] Error: 0.000003 
+[13][7985] Accumulated Error: 0.000076 
+[13][7986] Error: 0.000020 
+[13][7986] Accumulated Error: 0.000076 
+[13][7987] Error: 0.000001 
+[13][7987] Accumulated Error: 0.000076 
+[13][7988] Error: 0.000009 
+[13][7988] Accumulated Error: 0.000072 
+[13][7989] Error: 0.000009 
+[13][7989] Accumulated Error: 0.000072 
+[13][7990] Error: 0.000026 
+[13][7990] Accumulated Error: 0.000072 
+[13][7991] Error: 0.000015 
+[13][7991] Accumulated Error: 0.000072 
+[13][7992] Error: 0.000006 
+[13][7992] Accumulated Error: 0.000072 
+[13][7993] Error: 0.000011 
+[13][7993] Accumulated Error: 0.000072 
+[13][7994] Error: 0.000009 
+[13][7994] Accumulated Error: 0.000072 
+[13][7995] Error: 0.000033 
+[13][7995] Accumulated Error: 0.000072 
+[13][7996] Error: 0.000003 
+[13][7996] Accumulated Error: 0.000072 
+[13][7997] Error: 0.000005 
+[13][7997] Accumulated Error: 0.000071 
+[13][7998] Error: 0.000003 
+[13][7998] Accumulated Error: 0.000071 
+[13][7999] Error: 0.000013 
+[13][7999] Accumulated Error: 0.000071 
+[13][8000] Error: 0.000017 
+[13][8000] Accumulated Error: 0.000071 
+[13][8001] Error: 0.000028 
+[13][8001] Accumulated Error: 0.000071 
+[13][8002] Error: 0.000042 
+[13][8002] Accumulated Error: 0.000071 
+[13][8003] Error: 0.000003 
+[13][8003] Accumulated Error: 0.000071 
+[13][8004] Error: 0.000079 
+[13][8004] Accumulated Error: 0.000071 
+[13][8005] Error: 0.000002 
+[13][8005] Accumulated Error: 0.000071 
+[13][8006] Error: 0.000004 
+[13][8006] Accumulated Error: 0.000071 
+[13][8007] Error: 0.000017 
+[13][8007] Accumulated Error: 0.000071 
+[13][8008] Error: 0.000025 
+[13][8008] Accumulated Error: 0.000071 
+[13][8009] Error: 0.000041 
+[13][8009] Accumulated Error: 0.000071 
+[13][8010] Error: 0.000101 
+[13][8010] Accumulated Error: 0.000071 
+[13][8011] Error: 0.000005 
+[13][8011] Accumulated Error: 0.000071 
+[13][8012] Error: 0.000013 
+[13][8012] Accumulated Error: 0.000071 
+[13][8013] Error: 0.000006 
+[13][8013] Accumulated Error: 0.000069 
+[13][8014] Error: 0.000062 
+[13][8014] Accumulated Error: 0.000069 
+[13][8015] Error: 0.000051 
+[13][8015] Accumulated Error: 0.000068 
+[13][8016] Error: 0.000001 
+[13][8016] Accumulated Error: 0.000068 
+[13][8017] Error: 0.000047 
+[13][8017] Accumulated Error: 0.000068 
+[13][8018] Error: 0.000005 
+[13][8018] Accumulated Error: 0.000067 
+[13][8019] Error: 0.000071 
+[13][8019] Accumulated Error: 0.000067 
+[13][8020] Error: 0.000075 
+[13][8020] Accumulated Error: 0.000067 
+[13][8021] Error: 0.000007 
+[13][8021] Accumulated Error: 0.000067 
+[13][8022] Error: 0.000000 
+[13][8022] Accumulated Error: 0.000067 
+[13][8023] Error: 0.000006 
+[13][8023] Accumulated Error: 0.000067 
+[13][8024] Error: 0.000010 
+[13][8024] Accumulated Error: 0.000067 
+[13][8025] Error: 0.000007 
+[13][8025] Accumulated Error: 0.000067 
+[13][8026] Error: 0.000022 
+[13][8026] Accumulated Error: 0.000067 
+[13][8027] Error: 0.000024 
+[13][8027] Accumulated Error: 0.000067 
+[13][8028] Error: 0.000025 
+[13][8028] Accumulated Error: 0.000066 
+[13][8029] Error: 0.000008 
+[13][8029] Accumulated Error: 0.000066 
+[13][8030] Error: 0.000032 
+[13][8030] Accumulated Error: 0.000066 
+[13][8031] Error: 0.000031 
+[13][8031] Accumulated Error: 0.000066 
+[13][8032] Error: 0.000005 
+[13][8032] Accumulated Error: 0.000066 
+[13][8033] Error: 0.000009 
+[13][8033] Accumulated Error: 0.000065 
+[13][8034] Error: 0.000012 
+[13][8034] Accumulated Error: 0.000065 
+[13][8035] Error: 0.000002 
+[13][8035] Accumulated Error: 0.000065 
+[13][8036] Error: 0.000061 
+[13][8036] Accumulated Error: 0.000065 
+[13][8037] Error: 0.000012 
+[13][8037] Accumulated Error: 0.000065 
+[13][8038] Error: 0.000005 
+[13][8038] Accumulated Error: 0.000065 
+[13][8039] Error: 0.000041 
+[13][8039] Accumulated Error: 0.000065 
+[13][8040] Error: 0.000071 
+[13][8040] Accumulated Error: 0.000065 
+[13][8041] Error: 0.000070 
+[13][8041] Accumulated Error: 0.000065 
+[13][8042] Error: 0.000001 
+[13][8042] Accumulated Error: 0.000065 
+[13][8043] Error: 0.000007 
+[13][8043] Accumulated Error: 0.000064 
+[13][8044] Error: 0.000002 
+[13][8044] Accumulated Error: 0.000064 
+[13][8045] Error: 0.000101 
+[13][8045] Accumulated Error: 0.000063 
+[13][8046] Error: 0.000009 
+[13][8046] Accumulated Error: 0.000063 
+[13][8047] Error: 0.000018 
+[13][8047] Accumulated Error: 0.000063 
+[13][8048] Error: 0.000027 
+[13][8048] Accumulated Error: 0.000063 
+[13][8049] Error: 0.000004 
+[13][8049] Accumulated Error: 0.000063 
+[13][8050] Error: 0.000005 
+[13][8050] Accumulated Error: 0.000063 
+[13][8051] Error: 0.000018 
+[13][8051] Accumulated Error: 0.000063 
+[13][8052] Error: 0.000003 
+[13][8052] Accumulated Error: 0.000063 
+[13][8053] Error: 0.000015 
+[13][8053] Accumulated Error: 0.000063 
+[13][8054] Error: 0.000006 
+[13][8054] Accumulated Error: 0.000063 
+[13][8055] Error: 0.000007 
+[13][8055] Accumulated Error: 0.000063 
+[13][8056] Error: 0.000260 
+[13][8056] Accumulated Error: 0.000063 
+[13][8057] Error: 0.000003 
+[13][8057] Accumulated Error: 0.000063 
+[13][8058] Error: 0.000096 
+[13][8058] Accumulated Error: 0.000063 
+[13][8059] Error: 0.000028 
+[13][8059] Accumulated Error: 0.000063 
+[13][8060] Error: 0.000052 
+[13][8060] Accumulated Error: 0.000063 
+[13][8061] Error: 0.000004 
+[13][8061] Accumulated Error: 0.000062 
+[13][8062] Error: 0.000015 
+[13][8062] Accumulated Error: 0.000062 
+[13][8063] Error: 0.000043 
+[13][8063] Accumulated Error: 0.000062 
+[13][8064] Error: 0.000041 
+[13][8064] Accumulated Error: 0.000062 
+[13][8065] Error: 0.000149 
+[13][8065] Accumulated Error: 0.000062 
+[13][8066] Error: 0.000162 
+[13][8066] Accumulated Error: 0.000062 
+[13][8067] Error: 0.000019 
+[13][8067] Accumulated Error: 0.000062 
+[13][8068] Error: 0.000044 
+[13][8068] Accumulated Error: 0.000062 
+[13][8069] Error: 0.000086 
+[13][8069] Accumulated Error: 0.000062 
+[13][8070] Error: 0.000020 
+[13][8070] Accumulated Error: 0.000061 
+[13][8071] Error: 0.000000 
+[13][8071] Accumulated Error: 0.000060 
+[13][8072] Error: 0.000000 
+[13][8072] Accumulated Error: 0.000060 
+[13][8073] Error: 0.000014 
+[13][8073] Accumulated Error: 0.000060 
+[13][8074] Error: 0.000035 
+[13][8074] Accumulated Error: 0.000060 
+[13][8075] Error: 0.000012 
+[13][8075] Accumulated Error: 0.000060 
+[13][8076] Error: 0.000059 
+[13][8076] Accumulated Error: 0.000060 
+[13][8077] Error: 0.000006 
+[13][8077] Accumulated Error: 0.000060 
+[13][8078] Error: 0.000006 
+[13][8078] Accumulated Error: 0.000060 
+[13][8079] Error: 0.000010 
+[13][8079] Accumulated Error: 0.000060 
+[13][8080] Error: 0.000007 
+[13][8080] Accumulated Error: 0.000060 
+[13][8081] Error: 0.000015 
+[13][8081] Accumulated Error: 0.000060 
+[13][8082] Error: 0.000013 
+[13][8082] Accumulated Error: 0.000060 
+[13][8083] Error: 0.000022 
+[13][8083] Accumulated Error: 0.000058 
+[13][8084] Error: 0.000018 
+[13][8084] Accumulated Error: 0.000058 
+[13][8085] Error: 0.000005 
+[13][8085] Accumulated Error: 0.000058 
+[13][8086] Error: 0.000016 
+[13][8086] Accumulated Error: 0.000058 
+[13][8087] Error: 0.000019 
+[13][8087] Accumulated Error: 0.000057 
+[13][8088] Error: 0.000032 
+[13][8088] Accumulated Error: 0.000058 
+[13][8089] Error: 0.000000 
+[13][8089] Accumulated Error: 0.000058 
+[13][8090] Error: 0.000016 
+[13][8090] Accumulated Error: 0.000057 
+[13][8091] Error: 0.000002 
+[13][8091] Accumulated Error: 0.000057 
+[13][8092] Error: 0.000004 
+[13][8092] Accumulated Error: 0.000057 
+[13][8093] Error: 0.000045 
+[13][8093] Accumulated Error: 0.000057 
+[13][8094] Error: 0.000023 
+[13][8094] Accumulated Error: 0.000057 
+[13][8095] Error: 0.000008 
+[13][8095] Accumulated Error: 0.000057 
+[13][8096] Error: 0.000006 
+[13][8096] Accumulated Error: 0.000057 
+[13][8097] Error: 0.000007 
+[13][8097] Accumulated Error: 0.000057 
+[13][8098] Error: 0.000132 
+[13][8098] Accumulated Error: 0.000057 
+[13][8099] Error: 0.000034 
+[13][8099] Accumulated Error: 0.000057 
+[13][8100] Error: 0.000001 
+[13][8100] Accumulated Error: 0.000056 
+[13][8101] Error: 0.000003 
+[13][8101] Accumulated Error: 0.000056 
+[13][8102] Error: 0.000016 
+[13][8102] Accumulated Error: 0.000056 
+[13][8103] Error: 0.000006 
+[13][8103] Accumulated Error: 0.000056 
+[13][8104] Error: 0.000012 
+[13][8104] Accumulated Error: 0.000056 
+[13][8105] Error: 0.000005 
+[13][8105] Accumulated Error: 0.000056 
+[13][8106] Error: 0.000001 
+[13][8106] Accumulated Error: 0.000056 
+[13][8107] Error: 0.000017 
+[13][8107] Accumulated Error: 0.000056 
+[13][8108] Error: 0.000047 
+[13][8108] Accumulated Error: 0.000056 
+[13][8109] Error: 0.000007 
+[13][8109] Accumulated Error: 0.000056 
+[13][8110] Error: 0.000010 
+[13][8110] Accumulated Error: 0.000056 
+[13][8111] Error: 0.000002 
+[13][8111] Accumulated Error: 0.000056 
+[13][8112] Error: 0.000049 
+[13][8112] Accumulated Error: 0.000056 
+[13][8113] Error: 0.000001 
+[13][8113] Accumulated Error: 0.000055 
+[13][8114] Error: 0.000113 
+[13][8114] Accumulated Error: 0.000056 
+[13][8115] Error: 0.000009 
+[13][8115] Accumulated Error: 0.000055 
+[13][8116] Error: 0.000039 
+[13][8116] Accumulated Error: 0.000055 
+[13][8117] Error: 0.000013 
+[13][8117] Accumulated Error: 0.000055 
+[13][8118] Error: 0.000042 
+[13][8118] Accumulated Error: 0.000055 
+[13][8119] Error: 0.000038 
+[13][8119] Accumulated Error: 0.000055 
+[13][8120] Error: 0.000048 
+[13][8120] Accumulated Error: 0.000055 
+[13][8121] Error: 0.000024 
+[13][8121] Accumulated Error: 0.000055 
+[13][8122] Error: 0.000005 
+[13][8122] Accumulated Error: 0.000055 
+[13][8123] Error: 0.000001 
+[13][8123] Accumulated Error: 0.000055 
+[13][8124] Error: 0.000059 
+[13][8124] Accumulated Error: 0.000055 
+[13][8125] Error: 0.000024 
+[13][8125] Accumulated Error: 0.000055 
+[13][8126] Error: 0.000036 
+[13][8126] Accumulated Error: 0.000055 
+[13][8127] Error: 0.000018 
+[13][8127] Accumulated Error: 0.000055 
+[13][8128] Error: 0.000013 
+[13][8128] Accumulated Error: 0.000055 
+[13][8129] Error: 0.000085 
+[13][8129] Accumulated Error: 0.000055 
+[13][8130] Error: 0.000000 
+[13][8130] Accumulated Error: 0.000055 
+[13][8131] Error: 0.000000 
+[13][8131] Accumulated Error: 0.000055 
+[13][8132] Error: 0.000034 
+[13][8132] Accumulated Error: 0.000055 
+[13][8133] Error: 0.000005 
+[13][8133] Accumulated Error: 0.000055 
+[13][8134] Error: 0.000005 
+[13][8134] Accumulated Error: 0.000055 
+[13][8135] Error: 0.000044 
+[13][8135] Accumulated Error: 0.000055 
+[13][8136] Error: 0.000376 
+[13][8136] Accumulated Error: 0.000055 
+[13][8137] Error: 0.000010 
+[13][8137] Accumulated Error: 0.000055 
+[13][8138] Error: 0.000025 
+[13][8138] Accumulated Error: 0.000055 
+[13][8139] Error: 0.000004 
+[13][8139] Accumulated Error: 0.000055 
+[13][8140] Error: 0.000000 
+[13][8140] Accumulated Error: 0.000055 
+[13][8141] Error: 0.000047 
+[13][8141] Accumulated Error: 0.000055 
+[13][8142] Error: 0.000001 
+[13][8142] Accumulated Error: 0.000055 
+[13][8143] Error: 0.000000 
+[13][8143] Accumulated Error: 0.000055 
+[13][8144] Error: 0.000018 
+[13][8144] Accumulated Error: 0.000054 
+[13][8145] Error: 0.000122 
+[13][8145] Accumulated Error: 0.000054 
+[13][8146] Error: 0.000010 
+[13][8146] Accumulated Error: 0.000054 
+[13][8147] Error: 0.000050 
+[13][8147] Accumulated Error: 0.000054 
+[13][8148] Error: 0.000036 
+[13][8148] Accumulated Error: 0.000054 
+[13][8149] Error: 0.000010 
+[13][8149] Accumulated Error: 0.000054 
+[13][8150] Error: 0.000024 
+[13][8150] Accumulated Error: 0.000054 
+[13][8151] Error: 0.000002 
+[13][8151] Accumulated Error: 0.000054 
+[13][8152] Error: 0.000000 
+[13][8152] Accumulated Error: 0.000054 
+[13][8153] Error: 0.000122 
+[13][8153] Accumulated Error: 0.000054 
+[13][8154] Error: 0.000039 
+[13][8154] Accumulated Error: 0.000054 
+[13][8155] Error: 0.000120 
+[13][8155] Accumulated Error: 0.000054 
+[13][8156] Error: 0.000009 
+[13][8156] Accumulated Error: 0.000053 
+[13][8157] Error: 0.000035 
+[13][8157] Accumulated Error: 0.000054 
+[13][8158] Error: 0.000001 
+[13][8158] Accumulated Error: 0.000053 
+[13][8159] Error: 0.000003 
+[13][8159] Accumulated Error: 0.000053 
+[13][8160] Error: 0.000003 
+[13][8160] Accumulated Error: 0.000053 
+[13][8161] Error: 0.000018 
+[13][8161] Accumulated Error: 0.000053 
+[13][8162] Error: 0.000003 
+[13][8162] Accumulated Error: 0.000053 
+[13][8163] Error: 0.000002 
+[13][8163] Accumulated Error: 0.000053 
+[13][8164] Error: 0.000000 
+[13][8164] Accumulated Error: 0.000053 
+[13][8165] Error: 0.000089 
+[13][8165] Accumulated Error: 0.000053 
+[13][8166] Error: 0.000001 
+[13][8166] Accumulated Error: 0.000053 
+[13][8167] Error: 0.000006 
+[13][8167] Accumulated Error: 0.000053 
+[13][8168] Error: 0.000139 
+[13][8168] Accumulated Error: 0.000053 
+[13][8169] Error: 0.000049 
+[13][8169] Accumulated Error: 0.000053 
+[13][8170] Error: 0.000009 
+[13][8170] Accumulated Error: 0.000053 
+[13][8171] Error: 0.000044 
+[13][8171] Accumulated Error: 0.000053 
+[13][8172] Error: 0.000037 
+[13][8172] Accumulated Error: 0.000053 
+[13][8173] Error: 0.000002 
+[13][8173] Accumulated Error: 0.000053 
+[13][8174] Error: 0.000029 
+[13][8174] Accumulated Error: 0.000053 
+[13][8175] Error: 0.000055 
+[13][8175] Accumulated Error: 0.000053 
+[13][8176] Error: 0.000055 
+[13][8176] Accumulated Error: 0.000053 
+[13][8177] Error: 0.000002 
+[13][8177] Accumulated Error: 0.000053 
+[13][8178] Error: 0.000004 
+[13][8178] Accumulated Error: 0.000052 
+[13][8179] Error: 0.000306 
+[13][8179] Accumulated Error: 0.000053 
+[13][8180] Error: 0.000014 
+[13][8180] Accumulated Error: 0.000053 
+[13][8181] Error: 0.000033 
+[13][8181] Accumulated Error: 0.000052 
+[13][8182] Error: 0.000001 
+[13][8182] Accumulated Error: 0.000052 
+[13][8183] Error: 0.000016 
+[13][8183] Accumulated Error: 0.000052 
+[13][8184] Error: 0.000066 
+[13][8184] Accumulated Error: 0.000052 
+[13][8185] Error: 0.000007 
+[13][8185] Accumulated Error: 0.000052 
+[13][8186] Error: 0.000029 
+[13][8186] Accumulated Error: 0.000052 
+[13][8187] Error: 0.000024 
+[13][8187] Accumulated Error: 0.000052 
+[13][8188] Error: 0.000152 
+[13][8188] Accumulated Error: 0.000052 
+[13][8189] Error: 0.000059 
+[13][8189] Accumulated Error: 0.000052 
+[13][8190] Error: 0.000009 
+[13][8190] Accumulated Error: 0.000052 
+[13][8191] Error: 0.000001 
+[13][8191] Accumulated Error: 0.000052 
+[13][8192] Error: 0.000012 
+[13][8192] Accumulated Error: 0.000052 
+[13][8193] Error: 0.000003 
+[13][8193] Accumulated Error: 0.000052 
+[13][8194] Error: 0.000073 
+[13][8194] Accumulated Error: 0.000053 
+[13][8195] Error: 0.000002 
+[13][8195] Accumulated Error: 0.000053 
+[13][8196] Error: 0.000007 
+[13][8196] Accumulated Error: 0.000053 
+[13][8197] Error: 0.000055 
+[13][8197] Accumulated Error: 0.000053 
+[13][8198] Error: 0.000019 
+[13][8198] Accumulated Error: 0.000052 
+[13][8199] Error: 0.000013 
+[13][8199] Accumulated Error: 0.000053 
+[13][8200] Error: 0.000015 
+[13][8200] Accumulated Error: 0.000052 
+[13][8201] Error: 0.000013 
+[13][8201] Accumulated Error: 0.000052 
+[13][8202] Error: 0.000008 
+[13][8202] Accumulated Error: 0.000052 
+[13][8203] Error: 0.000001 
+[13][8203] Accumulated Error: 0.000052 
+[13][8204] Error: 0.000002 
+[13][8204] Accumulated Error: 0.000052 
+[13][8205] Error: 0.000018 
+[13][8205] Accumulated Error: 0.000052 
+[13][8206] Error: 0.000001 
+[13][8206] Accumulated Error: 0.000052 
+[13][8207] Error: 0.000035 
+[13][8207] Accumulated Error: 0.000052 
+[13][8208] Error: 0.000005 
+[13][8208] Accumulated Error: 0.000052 
+[13][8209] Error: 0.000023 
+[13][8209] Accumulated Error: 0.000052 
+[13][8210] Error: 0.000039 
+[13][8210] Accumulated Error: 0.000052 
+[13][8211] Error: 0.000008 
+[13][8211] Accumulated Error: 0.000052 
+[13][8212] Error: 0.000002 
+[13][8212] Accumulated Error: 0.000052 
+[13][8213] Error: 0.000118 
+[13][8213] Accumulated Error: 0.000052 
+[13][8214] Error: 0.000090 
+[13][8214] Accumulated Error: 0.000052 
+[13][8215] Error: 0.000051 
+[13][8215] Accumulated Error: 0.000052 
+[13][8216] Error: 0.000096 
+[13][8216] Accumulated Error: 0.000052 
+[13][8217] Error: 0.000006 
+[13][8217] Accumulated Error: 0.000052 
+[13][8218] Error: 0.000048 
+[13][8218] Accumulated Error: 0.000052 
+[13][8219] Error: 0.000011 
+[13][8219] Accumulated Error: 0.000052 
+[13][8220] Error: 0.000008 
+[13][8220] Accumulated Error: 0.000052 
+[13][8221] Error: 0.000000 
+[13][8221] Accumulated Error: 0.000052 
+[13][8222] Error: 0.000033 
+[13][8222] Accumulated Error: 0.000052 
+[13][8223] Error: 0.000004 
+[13][8223] Accumulated Error: 0.000052 
+[13][8224] Error: 0.000004 
+[13][8224] Accumulated Error: 0.000052 
+[13][8225] Error: 0.000019 
+[13][8225] Accumulated Error: 0.000052 
+[13][8226] Error: 0.000032 
+[13][8226] Accumulated Error: 0.000052 
+[13][8227] Error: 0.000037 
+[13][8227] Accumulated Error: 0.000051 
+[13][8228] Error: 0.000070 
+[13][8228] Accumulated Error: 0.000051 
+[13][8229] Error: 0.000118 
+[13][8229] Accumulated Error: 0.000051 
+[13][8230] Error: 0.000002 
+[13][8230] Accumulated Error: 0.000051 
+[13][8231] Error: 0.000062 
+[13][8231] Accumulated Error: 0.000051 
+[13][8232] Error: 0.000023 
+[13][8232] Accumulated Error: 0.000051 
+[13][8233] Error: 0.000008 
+[13][8233] Accumulated Error: 0.000051 
+[13][8234] Error: 0.000000 
+[13][8234] Accumulated Error: 0.000051 
+[13][8235] Error: 0.000037 
+[13][8235] Accumulated Error: 0.000051 
+[13][8236] Error: 0.000007 
+[13][8236] Accumulated Error: 0.000051 
+[13][8237] Error: 0.000040 
+[13][8237] Accumulated Error: 0.000051 
+[13][8238] Error: 0.000001 
+[13][8238] Accumulated Error: 0.000051 
+[13][8239] Error: 0.000004 
+[13][8239] Accumulated Error: 0.000051 
+[13][8240] Error: 0.000010 
+[13][8240] Accumulated Error: 0.000051 
+[13][8241] Error: 0.000005 
+[13][8241] Accumulated Error: 0.000050 
+[13][8242] Error: 0.000025 
+[13][8242] Accumulated Error: 0.000050 
+[13][8243] Error: 0.000044 
+[13][8243] Accumulated Error: 0.000050 
+[13][8244] Error: 0.000007 
+[13][8244] Accumulated Error: 0.000050 
+[13][8245] Error: 0.000045 
+[13][8245] Accumulated Error: 0.000050 
+[13][8246] Error: 0.000004 
+[13][8246] Accumulated Error: 0.000050 
+[13][8247] Error: 0.000001 
+[13][8247] Accumulated Error: 0.000050 
+[13][8248] Error: 0.000006 
+[13][8248] Accumulated Error: 0.000050 
+[13][8249] Error: 0.000013 
+[13][8249] Accumulated Error: 0.000050 
+[13][8250] Error: 0.000006 
+[13][8250] Accumulated Error: 0.000050 
+[13][8251] Error: 0.000003 
+[13][8251] Accumulated Error: 0.000050 
+[13][8252] Error: 0.000011 
+[13][8252] Accumulated Error: 0.000050 
+[13][8253] Error: 0.000001 
+[13][8253] Accumulated Error: 0.000050 
+[13][8254] Error: 0.000077 
+[13][8254] Accumulated Error: 0.000050 
+[13][8255] Error: 0.000001 
+[13][8255] Accumulated Error: 0.000050 
+[13][8256] Error: 0.000015 
+[13][8256] Accumulated Error: 0.000050 
+[13][8257] Error: 0.000035 
+[13][8257] Accumulated Error: 0.000050 
+[13][8258] Error: 0.000005 
+[13][8258] Accumulated Error: 0.000050 
+[13][8259] Error: 0.000052 
+[13][8259] Accumulated Error: 0.000050 
+[13][8260] Error: 0.000023 
+[13][8260] Accumulated Error: 0.000050 
+[13][8261] Error: 0.000161 
+[13][8261] Accumulated Error: 0.000050 
+[13][8262] Error: 0.000004 
+[13][8262] Accumulated Error: 0.000050 
+[13][8263] Error: 0.000023 
+[13][8263] Accumulated Error: 0.000050 
+[13][8264] Error: 0.000084 
+[13][8264] Accumulated Error: 0.000050 
+[13][8265] Error: 0.000007 
+[13][8265] Accumulated Error: 0.000050 
+[13][8266] Error: 0.000007 
+[13][8266] Accumulated Error: 0.000050 
+[13][8267] Error: 0.000034 
+[13][8267] Accumulated Error: 0.000050 
+[13][8268] Error: 0.000039 
+[13][8268] Accumulated Error: 0.000050 
+[13][8269] Error: 0.000002 
+[13][8269] Accumulated Error: 0.000050 
+[13][8270] Error: 0.000022 
+[13][8270] Accumulated Error: 0.000050 
+[13][8271] Error: 0.000172 
+[13][8271] Accumulated Error: 0.000050 
+[13][8272] Error: 0.000000 
+[13][8272] Accumulated Error: 0.000050 
+[13][8273] Error: 0.000040 
+[13][8273] Accumulated Error: 0.000050 
+[13][8274] Error: 0.000012 
+[13][8274] Accumulated Error: 0.000050 
+[13][8275] Error: 0.000002 
+[13][8275] Accumulated Error: 0.000049 
+[13][8276] Error: 0.000004 
+[13][8276] Accumulated Error: 0.000049 
+[13][8277] Error: 0.000043 
+[13][8277] Accumulated Error: 0.000049 
+[13][8278] Error: 0.000028 
+[13][8278] Accumulated Error: 0.000049 
+[13][8279] Error: 0.000039 
+[13][8279] Accumulated Error: 0.000049 
+[13][8280] Error: 0.000009 
+[13][8280] Accumulated Error: 0.000049 
+[13][8281] Error: 0.000013 
+[13][8281] Accumulated Error: 0.000049 
+[13][8282] Error: 0.000009 
+[13][8282] Accumulated Error: 0.000049 
+[13][8283] Error: 0.000025 
+[13][8283] Accumulated Error: 0.000049 
+[13][8284] Error: 0.000118 
+[13][8284] Accumulated Error: 0.000049 
+[13][8285] Error: 0.000161 
+[13][8285] Accumulated Error: 0.000049 
+[13][8286] Error: 0.000010 
+[13][8286] Accumulated Error: 0.000049 
+[13][8287] Error: 0.000010 
+[13][8287] Accumulated Error: 0.000049 
+[13][8288] Error: 0.000001 
+[13][8288] Accumulated Error: 0.000049 
+[13][8289] Error: 0.000001 
+[13][8289] Accumulated Error: 0.000049 
+[13][8290] Error: 0.000035 
+[13][8290] Accumulated Error: 0.000048 
+[13][8291] Error: 0.000034 
+[13][8291] Accumulated Error: 0.000048 
+[13][8292] Error: 0.000012 
+[13][8292] Accumulated Error: 0.000048 
+[13][8293] Error: 0.000008 
+[13][8293] Accumulated Error: 0.000048 
+[13][8294] Error: 0.000002 
+[13][8294] Accumulated Error: 0.000048 
+[13][8295] Error: 0.000011 
+[13][8295] Accumulated Error: 0.000048 
+[13][8296] Error: 0.000035 
+[13][8296] Accumulated Error: 0.000048 
+[13][8297] Error: 0.000008 
+[13][8297] Accumulated Error: 0.000048 
+[13][8298] Error: 0.000002 
+[13][8298] Accumulated Error: 0.000048 
+[13][8299] Error: 0.000049 
+[13][8299] Accumulated Error: 0.000048 
+[13][8300] Error: 0.000103 
+[13][8300] Accumulated Error: 0.000048 
+[13][8301] Error: 0.000003 
+[13][8301] Accumulated Error: 0.000048 
+[13][8302] Error: 0.000010 
+[13][8302] Accumulated Error: 0.000048 
+[13][8303] Error: 0.000008 
+[13][8303] Accumulated Error: 0.000047 
+[13][8304] Error: 0.000029 
+[13][8304] Accumulated Error: 0.000047 
+[13][8305] Error: 0.000105 
+[13][8305] Accumulated Error: 0.000047 
+[13][8306] Error: 0.000021 
+[13][8306] Accumulated Error: 0.000047 
+[13][8307] Error: 0.000021 
+[13][8307] Accumulated Error: 0.000048 
+[13][8308] Error: 0.000005 
+[13][8308] Accumulated Error: 0.000047 
+[13][8309] Error: 0.000017 
+[13][8309] Accumulated Error: 0.000047 
+[13][8310] Error: 0.000007 
+[13][8310] Accumulated Error: 0.000046 
+[13][8311] Error: 0.000009 
+[13][8311] Accumulated Error: 0.000046 
+[13][8312] Error: 0.000029 
+[13][8312] Accumulated Error: 0.000046 
+[13][8313] Error: 0.000157 
+[13][8313] Accumulated Error: 0.000046 
+[13][8314] Error: 0.000005 
+[13][8314] Accumulated Error: 0.000046 
+[13][8315] Error: 0.000179 
+[13][8315] Accumulated Error: 0.000046 
+[13][8316] Error: 0.000061 
+[13][8316] Accumulated Error: 0.000046 
+[13][8317] Error: 0.000014 
+[13][8317] Accumulated Error: 0.000046 
+[13][8318] Error: 0.000001 
+[13][8318] Accumulated Error: 0.000046 
+[13][8319] Error: 0.000000 
+[13][8319] Accumulated Error: 0.000046 
+[13][8320] Error: 0.000032 
+[13][8320] Accumulated Error: 0.000046 
+[13][8321] Error: 0.000001 
+[13][8321] Accumulated Error: 0.000046 
+[13][8322] Error: 0.000007 
+[13][8322] Accumulated Error: 0.000046 
+[13][8323] Error: 0.000019 
+[13][8323] Accumulated Error: 0.000046 
+[13][8324] Error: 0.000002 
+[13][8324] Accumulated Error: 0.000046 
+[13][8325] Error: 0.000003 
+[13][8325] Accumulated Error: 0.000046 
+[13][8326] Error: 0.000000 
+[13][8326] Accumulated Error: 0.000046 
+[13][8327] Error: 0.000016 
+[13][8327] Accumulated Error: 0.000046 
+[13][8328] Error: 0.000009 
+[13][8328] Accumulated Error: 0.000046 
+[13][8329] Error: 0.000013 
+[13][8329] Accumulated Error: 0.000046 
+[13][8330] Error: 0.000031 
+[13][8330] Accumulated Error: 0.000046 
+[13][8331] Error: 0.000009 
+[13][8331] Accumulated Error: 0.000046 
+[13][8332] Error: 0.000003 
+[13][8332] Accumulated Error: 0.000046 
+[13][8333] Error: 0.000000 
+[13][8333] Accumulated Error: 0.000046 
+[13][8334] Error: 0.000049 
+[13][8334] Accumulated Error: 0.000046 
+[13][8335] Error: 0.000009 
+[13][8335] Accumulated Error: 0.000046 
+[13][8336] Error: 0.000009 
+[13][8336] Accumulated Error: 0.000046 
+[13][8337] Error: 0.000020 
+[13][8337] Accumulated Error: 0.000046 
+[13][8338] Error: 0.000024 
+[13][8338] Accumulated Error: 0.000046 
+[13][8339] Error: 0.000030 
+[13][8339] Accumulated Error: 0.000046 
+[13][8340] Error: 0.000012 
+[13][8340] Accumulated Error: 0.000046 
+[13][8341] Error: 0.000042 
+[13][8341] Accumulated Error: 0.000045 
+[13][8342] Error: 0.000013 
+[13][8342] Accumulated Error: 0.000045 
+[13][8343] Error: 0.000076 
+[13][8343] Accumulated Error: 0.000046 
+[13][8344] Error: 0.000003 
+[13][8344] Accumulated Error: 0.000045 
+[13][8345] Error: 0.000006 
+[13][8345] Accumulated Error: 0.000045 
+[13][8346] Error: 0.000018 
+[13][8346] Accumulated Error: 0.000045 
+[13][8347] Error: 0.000024 
+[13][8347] Accumulated Error: 0.000045 
+[13][8348] Error: 0.000015 
+[13][8348] Accumulated Error: 0.000045 
+[13][8349] Error: 0.000016 
+[13][8349] Accumulated Error: 0.000045 
+[13][8350] Error: 0.000113 
+[13][8350] Accumulated Error: 0.000045 
+[13][8351] Error: 0.000001 
+[13][8351] Accumulated Error: 0.000045 
+[13][8352] Error: 0.000001 
+[13][8352] Accumulated Error: 0.000045 
+[13][8353] Error: 0.000005 
+[13][8353] Accumulated Error: 0.000045 
+[13][8354] Error: 0.000060 
+[13][8354] Accumulated Error: 0.000045 
+[13][8355] Error: 0.000113 
+[13][8355] Accumulated Error: 0.000045 
+[13][8356] Error: 0.000031 
+[13][8356] Accumulated Error: 0.000045 
+[13][8357] Error: 0.000008 
+[13][8357] Accumulated Error: 0.000045 
+[13][8358] Error: 0.000022 
+[13][8358] Accumulated Error: 0.000045 
+[13][8359] Error: 0.000003 
+[13][8359] Accumulated Error: 0.000045 
+[13][8360] Error: 0.000036 
+[13][8360] Accumulated Error: 0.000045 
+[13][8361] Error: 0.000014 
+[13][8361] Accumulated Error: 0.000045 
+[13][8362] Error: 0.000002 
+[13][8362] Accumulated Error: 0.000042 
+[13][8363] Error: 0.000069 
+[13][8363] Accumulated Error: 0.000042 
+[13][8364] Error: 0.000095 
+[13][8364] Accumulated Error: 0.000042 
+[13][8365] Error: 0.000013 
+[13][8365] Accumulated Error: 0.000042 
+[13][8366] Error: 0.000153 
+[13][8366] Accumulated Error: 0.000042 
+[13][8367] Error: 0.000007 
+[13][8367] Accumulated Error: 0.000042 
+[13][8368] Error: 0.000011 
+[13][8368] Accumulated Error: 0.000042 
+[13][8369] Error: 0.000054 
+[13][8369] Accumulated Error: 0.000042 
+[13][8370] Error: 0.000001 
+[13][8370] Accumulated Error: 0.000042 
+[13][8371] Error: 0.000042 
+[13][8371] Accumulated Error: 0.000042 
+[13][8372] Error: 0.000000 
+[13][8372] Accumulated Error: 0.000042 
+[13][8373] Error: 0.000004 
+[13][8373] Accumulated Error: 0.000042 
+[13][8374] Error: 0.000040 
+[13][8374] Accumulated Error: 0.000042 
+[13][8375] Error: 0.000009 
+[13][8375] Accumulated Error: 0.000042 
+[13][8376] Error: 0.000008 
+[13][8376] Accumulated Error: 0.000042 
+[13][8377] Error: 0.000003 
+[13][8377] Accumulated Error: 0.000042 
+[13][8378] Error: 0.000047 
+[13][8378] Accumulated Error: 0.000042 
+[13][8379] Error: 0.000030 
+[13][8379] Accumulated Error: 0.000042 
+[13][8380] Error: 0.000001 
+[13][8380] Accumulated Error: 0.000042 
+[13][8381] Error: 0.000045 
+[13][8381] Accumulated Error: 0.000042 
+[13][8382] Error: 0.000000 
+[13][8382] Accumulated Error: 0.000042 
+[13][8383] Error: 0.000000 
+[13][8383] Accumulated Error: 0.000042 
+[13][8384] Error: 0.000009 
+[13][8384] Accumulated Error: 0.000042 
+[13][8385] Error: 0.000000 
+[13][8385] Accumulated Error: 0.000042 
+[13][8386] Error: 0.000001 
+[13][8386] Accumulated Error: 0.000042 
+[13][8387] Error: 0.000074 
+[13][8387] Accumulated Error: 0.000042 
+[13][8388] Error: 0.000001 
+[13][8388] Accumulated Error: 0.000042 
+[13][8389] Error: 0.000016 
+[13][8389] Accumulated Error: 0.000042 
+[13][8390] Error: 0.000015 
+[13][8390] Accumulated Error: 0.000042 
+[13][8391] Error: 0.000000 
+[13][8391] Accumulated Error: 0.000042 
+[13][8392] Error: 0.000000 
+[13][8392] Accumulated Error: 0.000042 
+[13][8393] Error: 0.000000 
+[13][8393] Accumulated Error: 0.000042 
+[13][8394] Error: 0.000003 
+[13][8394] Accumulated Error: 0.000042 
+[13][8395] Error: 0.000012 
+[13][8395] Accumulated Error: 0.000042 
+[13][8396] Error: 0.000000 
+[13][8396] Accumulated Error: 0.000042 
+[13][8397] Error: 0.000042 
+[13][8397] Accumulated Error: 0.000042 
+[13][8398] Error: 0.000010 
+[13][8398] Accumulated Error: 0.000042 
+[13][8399] Error: 0.000002 
+[13][8399] Accumulated Error: 0.000042 
+[13][8400] Error: 0.000145 
+[13][8400] Accumulated Error: 0.000042 

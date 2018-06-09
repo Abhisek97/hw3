@@ -1,0 +1,1200 @@
+[0][1] Error: 2.307497 
+[0][1] Accumulated Error: 2.307497 
+[0][2] Error: 2.300767 
+[0][2] Accumulated Error: 2.304132 
+[0][3] Error: 2.308410 
+[0][3] Accumulated Error: 2.305558 
+[0][4] Error: 2.297076 
+[0][4] Accumulated Error: 2.303438 
+[0][5] Error: 2.306154 
+[0][5] Accumulated Error: 2.303981 
+[0][6] Error: 2.304135 
+[0][6] Accumulated Error: 2.304006 
+[0][7] Error: 2.302245 
+[0][7] Accumulated Error: 2.303755 
+[0][8] Error: 2.311352 
+[0][8] Accumulated Error: 2.304705 
+[0][9] Error: 2.302444 
+[0][9] Accumulated Error: 2.304453 
+[0][10] Error: 2.301247 
+[0][10] Accumulated Error: 2.304133 
+[0][11] Error: 2.302947 
+[0][11] Accumulated Error: 2.304025 
+[0][12] Error: 2.300527 
+[0][12] Accumulated Error: 2.303734 
+[0][13] Error: 2.300844 
+[0][13] Accumulated Error: 2.303511 
+[0][14] Error: 2.307765 
+[0][14] Accumulated Error: 2.303815 
+[0][15] Error: 2.304983 
+[0][15] Accumulated Error: 2.303893 
+[0][16] Error: 2.305121 
+[0][16] Accumulated Error: 2.303970 
+[0][17] Error: 2.301964 
+[0][17] Accumulated Error: 2.303852 
+[0][18] Error: 2.306833 
+[0][18] Accumulated Error: 2.304017 
+[0][19] Error: 2.301111 
+[0][19] Accumulated Error: 2.303864 
+[0][20] Error: 2.308895 
+[0][20] Accumulated Error: 2.304116 
+[0][21] Error: 2.300227 
+[0][21] Accumulated Error: 2.303931 
+[0][22] Error: 2.302273 
+[0][22] Accumulated Error: 2.303855 
+[0][23] Error: 2.301678 
+[0][23] Accumulated Error: 2.303761 
+[0][24] Error: 2.298637 
+[0][24] Accumulated Error: 2.303547 
+[0][25] Error: 2.298497 
+[0][25] Accumulated Error: 2.303345 
+[0][26] Error: 2.307163 
+[0][26] Accumulated Error: 2.303492 
+[0][27] Error: 2.301485 
+[0][27] Accumulated Error: 2.303418 
+[0][28] Error: 2.299856 
+[0][28] Accumulated Error: 2.303291 
+[0][29] Error: 2.292796 
+[0][29] Accumulated Error: 2.302929 
+[0][30] Error: 2.304443 
+[0][30] Accumulated Error: 2.302979 
+[0][31] Error: 2.305622 
+[0][31] Accumulated Error: 2.303064 
+[0][32] Error: 2.301266 
+[0][32] Accumulated Error: 2.303008 
+[0][33] Error: 2.303712 
+[0][33] Accumulated Error: 2.303030 
+[0][34] Error: 2.300267 
+[0][34] Accumulated Error: 2.302948 
+[0][35] Error: 2.299956 
+[0][35] Accumulated Error: 2.302863 
+[0][36] Error: 2.305359 
+[0][36] Accumulated Error: 2.302932 
+[0][37] Error: 2.306959 
+[0][37] Accumulated Error: 2.303041 
+[0][38] Error: 2.300495 
+[0][38] Accumulated Error: 2.302974 
+[0][39] Error: 2.298059 
+[0][39] Accumulated Error: 2.302848 
+[0][40] Error: 2.298328 
+[0][40] Accumulated Error: 2.302735 
+[0][41] Error: 2.302421 
+[0][41] Accumulated Error: 2.302727 
+[0][42] Error: 2.298039 
+[0][42] Accumulated Error: 2.302616 
+[0][43] Error: 2.303242 
+[0][43] Accumulated Error: 2.302630 
+[0][44] Error: 2.304142 
+[0][44] Accumulated Error: 2.302665 
+[0][45] Error: 2.296476 
+[0][45] Accumulated Error: 2.302527 
+[0][46] Error: 2.297483 
+[0][46] Accumulated Error: 2.302417 
+[0][47] Error: 2.303659 
+[0][47] Accumulated Error: 2.302444 
+[0][48] Error: 2.296522 
+[0][48] Accumulated Error: 2.302320 
+[0][49] Error: 2.297777 
+[0][49] Accumulated Error: 2.302228 
+[0][50] Error: 2.298320 
+[0][50] Accumulated Error: 2.302150 
+[0][51] Error: 2.301085 
+[0][51] Accumulated Error: 2.302129 
+[0][52] Error: 2.300129 
+[0][52] Accumulated Error: 2.302090 
+[0][53] Error: 2.299514 
+[0][53] Accumulated Error: 2.302042 
+[0][54] Error: 2.304612 
+[0][54] Accumulated Error: 2.302089 
+[0][55] Error: 2.299765 
+[0][55] Accumulated Error: 2.302047 
+[0][56] Error: 2.302733 
+[0][56] Accumulated Error: 2.302059 
+[0][57] Error: 2.303998 
+[0][57] Accumulated Error: 2.302093 
+[0][58] Error: 2.297259 
+[0][58] Accumulated Error: 2.302010 
+[0][59] Error: 2.297535 
+[0][59] Accumulated Error: 2.301934 
+[0][60] Error: 2.294967 
+[0][60] Accumulated Error: 2.301818 
+[0][61] Error: 2.296979 
+[0][61] Accumulated Error: 2.301739 
+[0][62] Error: 2.294091 
+[0][62] Accumulated Error: 2.301615 
+[0][63] Error: 2.295413 
+[0][63] Accumulated Error: 2.301517 
+[0][64] Error: 2.301017 
+[0][64] Accumulated Error: 2.301509 
+[0][65] Error: 2.299435 
+[0][65] Accumulated Error: 2.301477 
+[0][66] Error: 2.298466 
+[0][66] Accumulated Error: 2.301431 
+[0][67] Error: 2.299840 
+[0][67] Accumulated Error: 2.301408 
+[0][68] Error: 2.298326 
+[0][68] Accumulated Error: 2.301362 
+[0][69] Error: 2.298771 
+[0][69] Accumulated Error: 2.301325 
+[0][70] Error: 2.299720 
+[0][70] Accumulated Error: 2.301302 
+[0][71] Error: 2.299620 
+[0][71] Accumulated Error: 2.301278 
+[0][72] Error: 2.300167 
+[0][72] Accumulated Error: 2.301263 
+[0][73] Error: 2.300967 
+[0][73] Accumulated Error: 2.301259 
+[0][74] Error: 2.297315 
+[0][74] Accumulated Error: 2.301205 
+[0][75] Error: 2.296054 
+[0][75] Accumulated Error: 2.301137 
+[0][76] Error: 2.293694 
+[0][76] Accumulated Error: 2.301039 
+[0][77] Error: 2.293970 
+[0][77] Accumulated Error: 2.300947 
+[0][78] Error: 2.293045 
+[0][78] Accumulated Error: 2.300846 
+[0][79] Error: 2.299446 
+[0][79] Accumulated Error: 2.300828 
+[0][80] Error: 2.299299 
+[0][80] Accumulated Error: 2.300809 
+[0][81] Error: 2.297998 
+[0][81] Accumulated Error: 2.300774 
+[0][82] Error: 2.298239 
+[0][82] Accumulated Error: 2.300743 
+[0][83] Error: 2.295963 
+[0][83] Accumulated Error: 2.300686 
+[0][84] Error: 2.299455 
+[0][84] Accumulated Error: 2.300671 
+[0][85] Error: 2.290955 
+[0][85] Accumulated Error: 2.300557 
+[0][86] Error: 2.291331 
+[0][86] Accumulated Error: 2.300449 
+[0][87] Error: 2.292945 
+[0][87] Accumulated Error: 2.300363 
+[0][88] Error: 2.297916 
+[0][88] Accumulated Error: 2.300335 
+[0][89] Error: 2.290694 
+[0][89] Accumulated Error: 2.300227 
+[0][90] Error: 2.289805 
+[0][90] Accumulated Error: 2.300111 
+[0][91] Error: 2.298390 
+[0][91] Accumulated Error: 2.300092 
+[0][92] Error: 2.297951 
+[0][92] Accumulated Error: 2.300069 
+[0][93] Error: 2.291943 
+[0][93] Accumulated Error: 2.299982 
+[0][94] Error: 2.294556 
+[0][94] Accumulated Error: 2.299924 
+[0][95] Error: 2.293889 
+[0][95] Accumulated Error: 2.299860 
+[0][96] Error: 2.292436 
+[0][96] Accumulated Error: 2.299783 
+[0][97] Error: 2.295681 
+[0][97] Accumulated Error: 2.299741 
+[0][98] Error: 2.294057 
+[0][98] Accumulated Error: 2.299683 
+[0][99] Error: 2.297268 
+[0][99] Accumulated Error: 2.299658 
+[0][100] Error: 2.294293 
+[0][100] Accumulated Error: 2.299605 
+[0][101] Error: 2.294886 
+[0][101] Accumulated Error: 2.299558 
+[0][102] Error: 2.294681 
+[0][102] Accumulated Error: 2.299510 
+[0][103] Error: 2.293660 
+[0][103] Accumulated Error: 2.299453 
+[0][104] Error: 2.290466 
+[0][104] Accumulated Error: 2.299367 
+[0][105] Error: 2.291670 
+[0][105] Accumulated Error: 2.299294 
+[0][106] Error: 2.291963 
+[0][106] Accumulated Error: 2.299225 
+[0][107] Error: 2.288068 
+[0][107] Accumulated Error: 2.299120 
+[0][108] Error: 2.294629 
+[0][108] Accumulated Error: 2.299079 
+[0][109] Error: 2.293917 
+[0][109] Accumulated Error: 2.299031 
+[0][110] Error: 2.290047 
+[0][110] Accumulated Error: 2.298950 
+[0][111] Error: 2.289883 
+[0][111] Accumulated Error: 2.298868 
+[0][112] Error: 2.293550 
+[0][112] Accumulated Error: 2.298820 
+[0][113] Error: 2.289136 
+[0][113] Accumulated Error: 2.298735 
+[0][114] Error: 2.296350 
+[0][114] Accumulated Error: 2.298714 
+[0][115] Error: 2.291378 
+[0][115] Accumulated Error: 2.298650 
+[0][116] Error: 2.293866 
+[0][116] Accumulated Error: 2.298609 
+[0][117] Error: 2.294287 
+[0][117] Accumulated Error: 2.298572 
+[0][118] Error: 2.295469 
+[0][118] Accumulated Error: 2.298546 
+[0][119] Error: 2.295298 
+[0][119] Accumulated Error: 2.298518 
+[0][120] Error: 2.298839 
+[0][120] Accumulated Error: 2.298521 
+[0][121] Error: 2.293045 
+[0][121] Accumulated Error: 2.298476 
+[0][122] Error: 2.291883 
+[0][122] Accumulated Error: 2.298422 
+[0][123] Error: 2.292212 
+[0][123] Accumulated Error: 2.298371 
+[0][124] Error: 2.292154 
+[0][124] Accumulated Error: 2.298321 
+[0][125] Error: 2.288886 
+[0][125] Accumulated Error: 2.298246 
+[0][126] Error: 2.291629 
+[0][126] Accumulated Error: 2.298193 
+[0][127] Error: 2.297665 
+[0][127] Accumulated Error: 2.298189 
+[0][128] Error: 2.289617 
+[0][128] Accumulated Error: 2.298122 
+[0][129] Error: 2.288771 
+[0][129] Accumulated Error: 2.298049 
+[0][130] Error: 2.291365 
+[0][130] Accumulated Error: 2.297998 
+[0][131] Error: 2.295936 
+[0][131] Accumulated Error: 2.297982 
+[0][132] Error: 2.289574 
+[0][132] Accumulated Error: 2.297919 
+[0][133] Error: 2.292519 
+[0][133] Accumulated Error: 2.297878 
+[0][134] Error: 2.295322 
+[0][134] Accumulated Error: 2.297859 
+[0][135] Error: 2.290051 
+[0][135] Accumulated Error: 2.297801 
+[0][136] Error: 2.286769 
+[0][136] Accumulated Error: 2.297720 
+[0][137] Error: 2.288100 
+[0][137] Accumulated Error: 2.297650 
+[0][138] Error: 2.290235 
+[0][138] Accumulated Error: 2.297596 
+[0][139] Error: 2.293122 
+[0][139] Accumulated Error: 2.297564 
+[0][140] Error: 2.290497 
+[0][140] Accumulated Error: 2.297513 
+[0][141] Error: 2.290323 
+[0][141] Accumulated Error: 2.297462 
+[0][142] Error: 2.292983 
+[0][142] Accumulated Error: 2.297431 
+[0][143] Error: 2.290413 
+[0][143] Accumulated Error: 2.297382 
+[0][144] Error: 2.288682 
+[0][144] Accumulated Error: 2.297321 
+[0][145] Error: 2.290992 
+[0][145] Accumulated Error: 2.297278 
+[0][146] Error: 2.284337 
+[0][146] Accumulated Error: 2.297189 
+[0][147] Error: 2.295350 
+[0][147] Accumulated Error: 2.297177 
+[0][148] Error: 2.292929 
+[0][148] Accumulated Error: 2.297148 
+[0][149] Error: 2.284813 
+[0][149] Accumulated Error: 2.297065 
+[0][150] Error: 2.287856 
+[0][150] Accumulated Error: 2.297004 
+[0][151] Error: 2.284425 
+[0][151] Accumulated Error: 2.296920 
+[0][152] Error: 2.291372 
+[0][152] Accumulated Error: 2.296884 
+[0][153] Error: 2.282119 
+[0][153] Accumulated Error: 2.296787 
+[0][154] Error: 2.292476 
+[0][154] Accumulated Error: 2.296759 
+[0][155] Error: 2.284851 
+[0][155] Accumulated Error: 2.296683 
+[0][156] Error: 2.288228 
+[0][156] Accumulated Error: 2.296628 
+[0][157] Error: 2.287986 
+[0][157] Accumulated Error: 2.296573 
+[0][158] Error: 2.291693 
+[0][158] Accumulated Error: 2.296542 
+[0][159] Error: 2.291425 
+[0][159] Accumulated Error: 2.296510 
+[0][160] Error: 2.284157 
+[0][160] Accumulated Error: 2.296433 
+[0][161] Error: 2.288492 
+[0][161] Accumulated Error: 2.296384 
+[0][162] Error: 2.288558 
+[0][162] Accumulated Error: 2.296335 
+[0][163] Error: 2.283132 
+[0][163] Accumulated Error: 2.296254 
+[0][164] Error: 2.287409 
+[0][164] Accumulated Error: 2.296200 
+[0][165] Error: 2.289351 
+[0][165] Accumulated Error: 2.296159 
+[0][166] Error: 2.287058 
+[0][166] Accumulated Error: 2.296104 
+[0][167] Error: 2.285199 
+[0][167] Accumulated Error: 2.296039 
+[0][168] Error: 2.285590 
+[0][168] Accumulated Error: 2.295977 
+[0][169] Error: 2.289789 
+[0][169] Accumulated Error: 2.295940 
+[0][170] Error: 2.287054 
+[0][170] Accumulated Error: 2.295888 
+[0][171] Error: 2.283994 
+[0][171] Accumulated Error: 2.295818 
+[0][172] Error: 2.284706 
+[0][172] Accumulated Error: 2.295754 
+[0][173] Error: 2.284742 
+[0][173] Accumulated Error: 2.295690 
+[0][174] Error: 2.285167 
+[0][174] Accumulated Error: 2.295629 
+[0][175] Error: 2.282679 
+[0][175] Accumulated Error: 2.295555 
+[0][176] Error: 2.291590 
+[0][176] Accumulated Error: 2.295533 
+[0][177] Error: 2.288681 
+[0][177] Accumulated Error: 2.295494 
+[0][178] Error: 2.288066 
+[0][178] Accumulated Error: 2.295452 
+[0][179] Error: 2.282351 
+[0][179] Accumulated Error: 2.295379 
+[0][180] Error: 2.283338 
+[0][180] Accumulated Error: 2.295312 
+[0][181] Error: 2.282650 
+[0][181] Accumulated Error: 2.295242 
+[0][182] Error: 2.282794 
+[0][182] Accumulated Error: 2.295174 
+[0][183] Error: 2.279146 
+[0][183] Accumulated Error: 2.295086 
+[0][184] Error: 2.285262 
+[0][184] Accumulated Error: 2.295033 
+[0][185] Error: 2.287560 
+[0][185] Accumulated Error: 2.294993 
+[0][186] Error: 2.284720 
+[0][186] Accumulated Error: 2.294937 
+[0][187] Error: 2.283596 
+[0][187] Accumulated Error: 2.294877 
+[0][188] Error: 2.284692 
+[0][188] Accumulated Error: 2.294823 
+[0][189] Error: 2.280508 
+[0][189] Accumulated Error: 2.294747 
+[0][190] Error: 2.283466 
+[0][190] Accumulated Error: 2.294687 
+[0][191] Error: 2.289320 
+[0][191] Accumulated Error: 2.294659 
+[0][192] Error: 2.287544 
+[0][192] Accumulated Error: 2.294622 
+[0][193] Error: 2.279757 
+[0][193] Accumulated Error: 2.294545 
+[0][194] Error: 2.282175 
+[0][194] Accumulated Error: 2.294482 
+[0][195] Error: 2.280306 
+[0][195] Accumulated Error: 2.294409 
+[0][196] Error: 2.285456 
+[0][196] Accumulated Error: 2.294363 
+[0][197] Error: 2.279205 
+[0][197] Accumulated Error: 2.294286 
+[0][198] Error: 2.281949 
+[0][198] Accumulated Error: 2.294224 
+[0][199] Error: 2.282400 
+[0][199] Accumulated Error: 2.294164 
+[0][200] Error: 2.287282 
+[0][200] Accumulated Error: 2.294130 
+[0][201] Error: 2.284417 
+[0][201] Accumulated Error: 2.294082 
+[0][202] Error: 2.288174 
+[0][202] Accumulated Error: 2.294052 
+[0][203] Error: 2.279315 
+[0][203] Accumulated Error: 2.293980 
+[0][204] Error: 2.282229 
+[0][204] Accumulated Error: 2.293922 
+[0][205] Error: 2.276799 
+[0][205] Accumulated Error: 2.293839 
+[0][206] Error: 2.283811 
+[0][206] Accumulated Error: 2.293790 
+[0][207] Error: 2.278864 
+[0][207] Accumulated Error: 2.293718 
+[0][208] Error: 2.280009 
+[0][208] Accumulated Error: 2.293652 
+[0][209] Error: 2.283952 
+[0][209] Accumulated Error: 2.293606 
+[0][210] Error: 2.283268 
+[0][210] Accumulated Error: 2.293556 
+[0][211] Error: 2.279905 
+[0][211] Accumulated Error: 2.293492 
+[0][212] Error: 2.279187 
+[0][212] Accumulated Error: 2.293424 
+[0][213] Error: 2.279857 
+[0][213] Accumulated Error: 2.293361 
+[0][214] Error: 2.281746 
+[0][214] Accumulated Error: 2.293306 
+[0][215] Error: 2.276457 
+[0][215] Accumulated Error: 2.293228 
+[0][216] Error: 2.280531 
+[0][216] Accumulated Error: 2.293169 
+[0][217] Error: 2.280011 
+[0][217] Accumulated Error: 2.293108 
+[0][218] Error: 2.277256 
+[0][218] Accumulated Error: 2.293036 
+[0][219] Error: 2.280926 
+[0][219] Accumulated Error: 2.292980 
+[0][220] Error: 2.274591 
+[0][220] Accumulated Error: 2.292897 
+[0][221] Error: 2.277016 
+[0][221] Accumulated Error: 2.292825 
+[0][222] Error: 2.280292 
+[0][222] Accumulated Error: 2.292769 
+[0][223] Error: 2.283051 
+[0][223] Accumulated Error: 2.292725 
+[0][224] Error: 2.278455 
+[0][224] Accumulated Error: 2.292661 
+[0][225] Error: 2.279071 
+[0][225] Accumulated Error: 2.292601 
+[0][226] Error: 2.287333 
+[0][226] Accumulated Error: 2.292578 
+[0][227] Error: 2.279754 
+[0][227] Accumulated Error: 2.292521 
+[0][228] Error: 2.276109 
+[0][228] Accumulated Error: 2.292449 
+[0][229] Error: 2.280670 
+[0][229] Accumulated Error: 2.292398 
+[0][230] Error: 2.275871 
+[0][230] Accumulated Error: 2.292326 
+[0][231] Error: 2.275296 
+[0][231] Accumulated Error: 2.292252 
+[0][232] Error: 2.278550 
+[0][232] Accumulated Error: 2.292193 
+[0][233] Error: 2.276965 
+[0][233] Accumulated Error: 2.292128 
+[0][234] Error: 2.275191 
+[0][234] Accumulated Error: 2.292055 
+[0][235] Error: 2.279859 
+[0][235] Accumulated Error: 2.292003 
+[0][236] Error: 2.281000 
+[0][236] Accumulated Error: 2.291957 
+[0][237] Error: 2.283234 
+[0][237] Accumulated Error: 2.291920 
+[0][238] Error: 2.280701 
+[0][238] Accumulated Error: 2.291873 
+[0][239] Error: 2.277850 
+[0][239] Accumulated Error: 2.291814 
+[0][240] Error: 2.279639 
+[0][240] Accumulated Error: 2.291763 
+[0][241] Error: 2.277302 
+[0][241] Accumulated Error: 2.291703 
+[0][242] Error: 2.278275 
+[0][242] Accumulated Error: 2.291648 
+[0][243] Error: 2.276688 
+[0][243] Accumulated Error: 2.291586 
+[0][244] Error: 2.278840 
+[0][244] Accumulated Error: 2.291534 
+[0][245] Error: 2.273986 
+[0][245] Accumulated Error: 2.291463 
+[0][246] Error: 2.277072 
+[0][246] Accumulated Error: 2.291404 
+[0][247] Error: 2.275871 
+[0][247] Accumulated Error: 2.291341 
+[0][248] Error: 2.280316 
+[0][248] Accumulated Error: 2.291297 
+[0][249] Error: 2.274627 
+[0][249] Accumulated Error: 2.291230 
+[0][250] Error: 2.280075 
+[0][250] Accumulated Error: 2.291185 
+[0][251] Error: 2.270611 
+[0][251] Accumulated Error: 2.291103 
+[0][252] Error: 2.271233 
+[0][252] Accumulated Error: 2.291024 
+[0][253] Error: 2.274218 
+[0][253] Accumulated Error: 2.290958 
+[0][254] Error: 2.278193 
+[0][254] Accumulated Error: 2.290908 
+[0][255] Error: 2.274740 
+[0][255] Accumulated Error: 2.290844 
+[0][256] Error: 2.271925 
+[0][256] Accumulated Error: 2.290770 
+[0][257] Error: 2.274109 
+[0][257] Accumulated Error: 2.290705 
+[0][258] Error: 2.271858 
+[0][258] Accumulated Error: 2.290632 
+[0][259] Error: 2.274484 
+[0][259] Accumulated Error: 2.290570 
+[0][260] Error: 2.274138 
+[0][260] Accumulated Error: 2.290507 
+[0][261] Error: 2.273754 
+[0][261] Accumulated Error: 2.290443 
+[0][262] Error: 2.273608 
+[0][262] Accumulated Error: 2.290378 
+[0][263] Error: 2.278381 
+[0][263] Accumulated Error: 2.290333 
+[0][264] Error: 2.277921 
+[0][264] Accumulated Error: 2.290286 
+[0][265] Error: 2.277009 
+[0][265] Accumulated Error: 2.290236 
+[0][266] Error: 2.276428 
+[0][266] Accumulated Error: 2.290184 
+[0][267] Error: 2.274817 
+[0][267] Accumulated Error: 2.290126 
+[0][268] Error: 2.271761 
+[0][268] Accumulated Error: 2.290058 
+[0][269] Error: 2.279045 
+[0][269] Accumulated Error: 2.290017 
+[0][270] Error: 2.272517 
+[0][270] Accumulated Error: 2.289952 
+[0][271] Error: 2.274849 
+[0][271] Accumulated Error: 2.289896 
+[0][272] Error: 2.273118 
+[0][272] Accumulated Error: 2.289835 
+[0][273] Error: 2.273348 
+[0][273] Accumulated Error: 2.289774 
+[0][274] Error: 2.274490 
+[0][274] Accumulated Error: 2.289718 
+[0][275] Error: 2.273086 
+[0][275] Accumulated Error: 2.289658 
+[0][276] Error: 2.270288 
+[0][276] Accumulated Error: 2.289588 
+[0][277] Error: 2.269397 
+[0][277] Accumulated Error: 2.289515 
+[0][278] Error: 2.270923 
+[0][278] Accumulated Error: 2.289448 
+[0][279] Error: 2.268044 
+[0][279] Accumulated Error: 2.289371 
+[0][280] Error: 2.276347 
+[0][280] Accumulated Error: 2.289325 
+[0][281] Error: 2.266152 
+[0][281] Accumulated Error: 2.289242 
+[0][282] Error: 2.270013 
+[0][282] Accumulated Error: 2.289174 
+[0][283] Error: 2.264864 
+[0][283] Accumulated Error: 2.289088 
+[0][284] Error: 2.274232 
+[0][284] Accumulated Error: 2.289036 
+[0][285] Error: 2.269016 
+[0][285] Accumulated Error: 2.288966 
+[0][286] Error: 2.267861 
+[0][286] Accumulated Error: 2.288892 
+[0][287] Error: 2.272020 
+[0][287] Accumulated Error: 2.288833 
+[0][288] Error: 2.273152 
+[0][288] Accumulated Error: 2.288779 
+[0][289] Error: 2.266829 
+[0][289] Accumulated Error: 2.288703 
+[0][290] Error: 2.270201 
+[0][290] Accumulated Error: 2.288639 
+[0][291] Error: 2.272589 
+[0][291] Accumulated Error: 2.288584 
+[0][292] Error: 2.280768 
+[0][292] Accumulated Error: 2.288557 
+[0][293] Error: 2.267238 
+[0][293] Accumulated Error: 2.288484 
+[0][294] Error: 2.274648 
+[0][294] Accumulated Error: 2.288437 
+[0][295] Error: 2.263467 
+[0][295] Accumulated Error: 2.288352 
+[0][296] Error: 2.271999 
+[0][296] Accumulated Error: 2.288297 
+[0][297] Error: 2.265495 
+[0][297] Accumulated Error: 2.288220 
+[0][298] Error: 2.276953 
+[0][298] Accumulated Error: 2.288183 
+[0][299] Error: 2.277292 
+[0][299] Accumulated Error: 2.288146 
+[0][300] Error: 2.276642 
+[0][300] Accumulated Error: 2.288108 
+[0][301] Error: 2.273308 
+[0][301] Accumulated Error: 2.288059 
+[0][302] Error: 2.273833 
+[0][302] Accumulated Error: 2.288012 
+[0][303] Error: 2.267743 
+[0][303] Accumulated Error: 2.287945 
+[0][304] Error: 2.269187 
+[0][304] Accumulated Error: 2.287883 
+[0][305] Error: 2.272534 
+[0][305] Accumulated Error: 2.287833 
+[0][306] Error: 2.270722 
+[0][306] Accumulated Error: 2.287777 
+[0][307] Error: 2.272027 
+[0][307] Accumulated Error: 2.287725 
+[0][308] Error: 2.269864 
+[0][308] Accumulated Error: 2.287667 
+[0][309] Error: 2.267959 
+[0][309] Accumulated Error: 2.287604 
+[0][310] Error: 2.268708 
+[0][310] Accumulated Error: 2.287543 
+[0][311] Error: 2.270892 
+[0][311] Accumulated Error: 2.287489 
+[0][312] Error: 2.263681 
+[0][312] Accumulated Error: 2.287413 
+[0][313] Error: 2.272132 
+[0][313] Accumulated Error: 2.287364 
+[0][314] Error: 2.275343 
+[0][314] Accumulated Error: 2.287326 
+[0][315] Error: 2.273118 
+[0][315] Accumulated Error: 2.287281 
+[0][316] Error: 2.268440 
+[0][316] Accumulated Error: 2.287221 
+[0][317] Error: 2.273185 
+[0][317] Accumulated Error: 2.287177 
+[0][318] Error: 2.274915 
+[0][318] Accumulated Error: 2.287138 
+[0][319] Error: 2.267472 
+[0][319] Accumulated Error: 2.287077 
+[0][320] Error: 2.267903 
+[0][320] Accumulated Error: 2.287017 
+[0][321] Error: 2.270627 
+[0][321] Accumulated Error: 2.286966 
+[0][322] Error: 2.272025 
+[0][322] Accumulated Error: 2.286919 
+[0][323] Error: 2.274519 
+[0][323] Accumulated Error: 2.286881 
+[0][324] Error: 2.274928 
+[0][324] Accumulated Error: 2.286844 
+[0][325] Error: 2.269367 
+[0][325] Accumulated Error: 2.286790 
+[0][326] Error: 2.269058 
+[0][326] Accumulated Error: 2.286736 
+[0][327] Error: 2.266433 
+[0][327] Accumulated Error: 2.286674 
+[0][328] Error: 2.270225 
+[0][328] Accumulated Error: 2.286623 
+[0][329] Error: 2.262651 
+[0][329] Accumulated Error: 2.286551 
+[0][330] Error: 2.264989 
+[0][330] Accumulated Error: 2.286485 
+[0][331] Error: 2.264977 
+[0][331] Accumulated Error: 2.286420 
+[0][332] Error: 2.262574 
+[0][332] Accumulated Error: 2.286348 
+[0][333] Error: 2.268299 
+[0][333] Accumulated Error: 2.286294 
+[0][334] Error: 2.269127 
+[0][334] Accumulated Error: 2.286243 
+[0][335] Error: 2.262536 
+[0][335] Accumulated Error: 2.286172 
+[0][336] Error: 2.266712 
+[0][336] Accumulated Error: 2.286114 
+[0][337] Error: 2.260338 
+[0][337] Accumulated Error: 2.286038 
+[0][338] Error: 2.265491 
+[0][338] Accumulated Error: 2.285977 
+[0][339] Error: 2.258462 
+[0][339] Accumulated Error: 2.285896 
+[0][340] Error: 2.263851 
+[0][340] Accumulated Error: 2.285831 
+[0][341] Error: 2.267652 
+[0][341] Accumulated Error: 2.285778 
+[0][342] Error: 2.264084 
+[0][342] Accumulated Error: 2.285714 
+[0][343] Error: 2.257572 
+[0][343] Accumulated Error: 2.285632 
+[0][344] Error: 2.265173 
+[0][344] Accumulated Error: 2.285573 
+[0][345] Error: 2.261691 
+[0][345] Accumulated Error: 2.285503 
+[0][346] Error: 2.264511 
+[0][346] Accumulated Error: 2.285443 
+[0][347] Error: 2.260077 
+[0][347] Accumulated Error: 2.285370 
+[0][348] Error: 2.263424 
+[0][348] Accumulated Error: 2.285307 
+[0][349] Error: 2.273852 
+[0][349] Accumulated Error: 2.285274 
+[0][350] Error: 2.265705 
+[0][350] Accumulated Error: 2.285218 
+[0][351] Error: 2.264342 
+[0][351] Accumulated Error: 2.285158 
+[0][352] Error: 2.268198 
+[0][352] Accumulated Error: 2.285110 
+[0][353] Error: 2.264942 
+[0][353] Accumulated Error: 2.285053 
+[0][354] Error: 2.262504 
+[0][354] Accumulated Error: 2.284989 
+[0][355] Error: 2.257476 
+[0][355] Accumulated Error: 2.284912 
+[0][356] Error: 2.260777 
+[0][356] Accumulated Error: 2.284844 
+[0][357] Error: 2.261215 
+[0][357] Accumulated Error: 2.284778 
+[0][358] Error: 2.262816 
+[0][358] Accumulated Error: 2.284717 
+[0][359] Error: 2.256037 
+[0][359] Accumulated Error: 2.284637 
+[0][360] Error: 2.263757 
+[0][360] Accumulated Error: 2.284579 
+[0][361] Error: 2.268360 
+[0][361] Accumulated Error: 2.284534 
+[0][362] Error: 2.256129 
+[0][362] Accumulated Error: 2.284455 
+[0][363] Error: 2.256580 
+[0][363] Accumulated Error: 2.284378 
+[0][364] Error: 2.257503 
+[0][364] Accumulated Error: 2.284305 
+[0][365] Error: 2.266114 
+[0][365] Accumulated Error: 2.284255 
+[0][366] Error: 2.260263 
+[0][366] Accumulated Error: 2.284189 
+[0][367] Error: 2.261847 
+[0][367] Accumulated Error: 2.284128 
+[0][368] Error: 2.256492 
+[0][368] Accumulated Error: 2.284053 
+[0][369] Error: 2.262258 
+[0][369] Accumulated Error: 2.283994 
+[0][370] Error: 2.259142 
+[0][370] Accumulated Error: 2.283927 
+[0][371] Error: 2.263917 
+[0][371] Accumulated Error: 2.283873 
+[0][372] Error: 2.259256 
+[0][372] Accumulated Error: 2.283807 
+[0][373] Error: 2.259662 
+[0][373] Accumulated Error: 2.283742 
+[0][374] Error: 2.263487 
+[0][374] Accumulated Error: 2.283688 
+[0][375] Error: 2.260571 
+[0][375] Accumulated Error: 2.283626 
+[0][376] Error: 2.264515 
+[0][376] Accumulated Error: 2.283576 
+[0][377] Error: 2.253553 
+[0][377] Accumulated Error: 2.283496 
+[0][378] Error: 2.255663 
+[0][378] Accumulated Error: 2.283422 
+[0][379] Error: 2.266367 
+[0][379] Accumulated Error: 2.283377 
+[0][380] Error: 2.251074 
+[0][380] Accumulated Error: 2.283292 
+[0][381] Error: 2.261533 
+[0][381] Accumulated Error: 2.283235 
+[0][382] Error: 2.248820 
+[0][382] Accumulated Error: 2.283145 
+[0][383] Error: 2.261736 
+[0][383] Accumulated Error: 2.283089 
+[0][384] Error: 2.260629 
+[0][384] Accumulated Error: 2.283031 
+[0][385] Error: 2.251500 
+[0][385] Accumulated Error: 2.282949 
+[0][386] Error: 2.260582 
+[0][386] Accumulated Error: 2.282891 
+[0][387] Error: 2.261739 
+[0][387] Accumulated Error: 2.282836 
+[0][388] Error: 2.257614 
+[0][388] Accumulated Error: 2.282771 
+[0][389] Error: 2.255400 
+[0][389] Accumulated Error: 2.282701 
+[0][390] Error: 2.252979 
+[0][390] Accumulated Error: 2.282625 
+[0][391] Error: 2.246721 
+[0][391] Accumulated Error: 2.282533 
+[0][392] Error: 2.251863 
+[0][392] Accumulated Error: 2.282455 
+[0][393] Error: 2.253821 
+[0][393] Accumulated Error: 2.282382 
+[0][394] Error: 2.256594 
+[0][394] Accumulated Error: 2.282316 
+[0][395] Error: 2.264568 
+[0][395] Accumulated Error: 2.282271 
+[0][396] Error: 2.258649 
+[0][396] Accumulated Error: 2.282212 
+[0][397] Error: 2.257329 
+[0][397] Accumulated Error: 2.282149 
+[0][398] Error: 2.259571 
+[0][398] Accumulated Error: 2.282092 
+[0][399] Error: 2.253322 
+[0][399] Accumulated Error: 2.282020 
+[0][400] Error: 2.265613 
+[0][400] Accumulated Error: 2.281979 
+[0][401] Error: 2.250765 
+[0][401] Accumulated Error: 2.281901 
+[0][402] Error: 2.255737 
+[0][402] Accumulated Error: 2.281836 
+[0][403] Error: 2.252944 
+[0][403] Accumulated Error: 2.281765 
+[0][404] Error: 2.250302 
+[0][404] Accumulated Error: 2.281687 
+[0][405] Error: 2.254107 
+[0][405] Accumulated Error: 2.281619 
+[0][406] Error: 2.254298 
+[0][406] Accumulated Error: 2.281551 
+[0][407] Error: 2.253835 
+[0][407] Accumulated Error: 2.281483 
+[0][408] Error: 2.261253 
+[0][408] Accumulated Error: 2.281434 
+[0][409] Error: 2.241398 
+[0][409] Accumulated Error: 2.281336 
+[0][410] Error: 2.250976 
+[0][410] Accumulated Error: 2.281262 
+[0][411] Error: 2.261011 
+[0][411] Accumulated Error: 2.281212 
+[0][412] Error: 2.256263 
+[0][412] Accumulated Error: 2.281152 
+[0][413] Error: 2.257552 
+[0][413] Accumulated Error: 2.281095 
+[0][414] Error: 2.258529 
+[0][414] Accumulated Error: 2.281040 
+[0][415] Error: 2.257155 
+[0][415] Accumulated Error: 2.280983 
+[0][416] Error: 2.263178 
+[0][416] Accumulated Error: 2.280940 
+[0][417] Error: 2.255573 
+[0][417] Accumulated Error: 2.280879 
+[0][418] Error: 2.262453 
+[0][418] Accumulated Error: 2.280835 
+[0][419] Error: 2.250372 
+[0][419] Accumulated Error: 2.280762 
+[0][420] Error: 2.257987 
+[0][420] Accumulated Error: 2.280708 
+[0][421] Error: 2.243341 
+[0][421] Accumulated Error: 2.280619 
+[0][422] Error: 2.256904 
+[0][422] Accumulated Error: 2.280563 
+[0][423] Error: 2.256015 
+[0][423] Accumulated Error: 2.280505 
+[0][424] Error: 2.257479 
+[0][424] Accumulated Error: 2.280451 
+[0][425] Error: 2.253785 
+[0][425] Accumulated Error: 2.280388 
+[0][426] Error: 2.256314 
+[0][426] Accumulated Error: 2.280331 
+[0][427] Error: 2.249863 
+[0][427] Accumulated Error: 2.280260 
+[0][428] Error: 2.245595 
+[0][428] Accumulated Error: 2.280179 
+[0][429] Error: 2.246272 
+[0][429] Accumulated Error: 2.280100 
+[0][430] Error: 2.253886 
+[0][430] Accumulated Error: 2.280039 
+[0][431] Error: 2.258886 
+[0][431] Accumulated Error: 2.279990 
+[0][432] Error: 2.251130 
+[0][432] Accumulated Error: 2.279923 
+[0][433] Error: 2.249757 
+[0][433] Accumulated Error: 2.279853 
+[0][434] Error: 2.245648 
+[0][434] Accumulated Error: 2.279775 
+[0][435] Error: 2.241994 
+[0][435] Accumulated Error: 2.279688 
+[0][436] Error: 2.257251 
+[0][436] Accumulated Error: 2.279636 
+[0][437] Error: 2.246220 
+[0][437] Accumulated Error: 2.279560 
+[0][438] Error: 2.252590 
+[0][438] Accumulated Error: 2.279498 
+[0][439] Error: 2.250083 
+[0][439] Accumulated Error: 2.279431 
+[0][440] Error: 2.251042 
+[0][440] Accumulated Error: 2.279367 
+[0][441] Error: 2.250513 
+[0][441] Accumulated Error: 2.279301 
+[0][442] Error: 2.257128 
+[0][442] Accumulated Error: 2.279251 
+[0][443] Error: 2.254215 
+[0][443] Accumulated Error: 2.279195 
+[0][444] Error: 2.251606 
+[0][444] Accumulated Error: 2.279133 
+[0][445] Error: 2.243879 
+[0][445] Accumulated Error: 2.279053 
+[0][446] Error: 2.238468 
+[0][446] Accumulated Error: 2.278962 
+[0][447] Error: 2.246995 
+[0][447] Accumulated Error: 2.278891 
+[0][448] Error: 2.251386 
+[0][448] Accumulated Error: 2.278829 
+[0][449] Error: 2.254507 
+[0][449] Accumulated Error: 2.278775 
+[0][450] Error: 2.255760 
+[0][450] Accumulated Error: 2.278724 
+[0][451] Error: 2.251151 
+[0][451] Accumulated Error: 2.278663 
+[0][452] Error: 2.249291 
+[0][452] Accumulated Error: 2.278598 
+[0][453] Error: 2.248987 
+[0][453] Accumulated Error: 2.278533 
+[0][454] Error: 2.237810 
+[0][454] Accumulated Error: 2.278443 
+[0][455] Error: 2.249257 
+[0][455] Accumulated Error: 2.278379 
+[0][456] Error: 2.243402 
+[0][456] Accumulated Error: 2.278302 
+[0][457] Error: 2.242476 
+[0][457] Accumulated Error: 2.278224 
+[0][458] Error: 2.245519 
+[0][458] Accumulated Error: 2.278152 
+[0][459] Error: 2.252146 
+[0][459] Accumulated Error: 2.278096 
+[0][460] Error: 2.247163 
+[0][460] Accumulated Error: 2.278028 
+[0][461] Error: 2.248515 
+[0][461] Accumulated Error: 2.277964 
+[0][462] Error: 2.242952 
+[0][462] Accumulated Error: 2.277889 
+[0][463] Error: 2.242100 
+[0][463] Accumulated Error: 2.277811 
+[0][464] Error: 2.253712 
+[0][464] Accumulated Error: 2.277759 
+[0][465] Error: 2.245662 
+[0][465] Accumulated Error: 2.277690 
+[0][466] Error: 2.239480 
+[0][466] Accumulated Error: 2.277608 
+[0][467] Error: 2.241553 
+[0][467] Accumulated Error: 2.277531 
+[0][468] Error: 2.241729 
+[0][468] Accumulated Error: 2.277455 
+[0][469] Error: 2.239082 
+[0][469] Accumulated Error: 2.277373 
+[0][470] Error: 2.235181 
+[0][470] Accumulated Error: 2.277283 
+[0][471] Error: 2.240226 
+[0][471] Accumulated Error: 2.277204 
+[0][472] Error: 2.236091 
+[0][472] Accumulated Error: 2.277117 
+[0][473] Error: 2.244125 
+[0][473] Accumulated Error: 2.277047 
+[0][474] Error: 2.248243 
+[0][474] Accumulated Error: 2.276987 
+[0][475] Error: 2.246019 
+[0][475] Accumulated Error: 2.276922 
+[0][476] Error: 2.239066 
+[0][476] Accumulated Error: 2.276842 
+[0][477] Error: 2.241129 
+[0][477] Accumulated Error: 2.276767 
+[0][478] Error: 2.230809 
+[0][478] Accumulated Error: 2.276671 
+[0][479] Error: 2.241954 
+[0][479] Accumulated Error: 2.276598 
+[0][480] Error: 2.247929 
+[0][480] Accumulated Error: 2.276539 
+[0][481] Error: 2.241578 
+[0][481] Accumulated Error: 2.276466 
+[0][482] Error: 2.227568 
+[0][482] Accumulated Error: 2.276365 
+[0][483] Error: 2.230425 
+[0][483] Accumulated Error: 2.276270 
+[0][484] Error: 2.238175 
+[0][484] Accumulated Error: 2.276191 
+[0][485] Error: 2.227361 
+[0][485] Accumulated Error: 2.276090 
+[0][486] Error: 2.237437 
+[0][486] Accumulated Error: 2.276011 
+[0][487] Error: 2.230327 
+[0][487] Accumulated Error: 2.275917 
+[0][488] Error: 2.232744 
+[0][488] Accumulated Error: 2.275828 
+[0][489] Error: 2.239793 
+[0][489] Accumulated Error: 2.275755 
+[0][490] Error: 2.247947 
+[0][490] Accumulated Error: 2.275698 
+[0][491] Error: 2.248249 
+[0][491] Accumulated Error: 2.275642 
+[0][492] Error: 2.238151 
+[0][492] Accumulated Error: 2.275566 
+[0][493] Error: 2.235673 
+[0][493] Accumulated Error: 2.275485 
+[0][494] Error: 2.228835 
+[0][494] Accumulated Error: 2.275390 
+[0][495] Error: 2.243456 
+[0][495] Accumulated Error: 2.275326 
+[0][496] Error: 2.253681 
+[0][496] Accumulated Error: 2.275282 
+[0][497] Error: 2.257150 
+[0][497] Accumulated Error: 2.275246 
+[0][498] Error: 2.241817 
+[0][498] Accumulated Error: 2.275179 
+[0][499] Error: 2.243031 
+[0][499] Accumulated Error: 2.275114 
+[0][500] Error: 2.241358 
+[0][500] Accumulated Error: 2.275047 
+[0][501] Error: 2.241930 
+[0][501] Accumulated Error: 2.274981 
+[0][502] Error: 2.236046 
+[0][502] Accumulated Error: 2.274903 
+[0][503] Error: 2.232898 
+[0][503] Accumulated Error: 2.274820 
+[0][504] Error: 2.242685 
+[0][504] Accumulated Error: 2.274756 
+[0][505] Error: 2.239908 
+[0][505] Accumulated Error: 2.274687 
+[0][506] Error: 2.235082 
+[0][506] Accumulated Error: 2.274609 
+[0][507] Error: 2.234785 
+[0][507] Accumulated Error: 2.274530 
+[0][508] Error: 2.244619 
+[0][508] Accumulated Error: 2.274471 
+[0][509] Error: 2.238058 
+[0][509] Accumulated Error: 2.274400 
+[0][510] Error: 2.224965 
+[0][510] Accumulated Error: 2.274303 
+[0][511] Error: 2.234495 
+[0][511] Accumulated Error: 2.274225 
+[0][512] Error: 2.238289 
+[0][512] Accumulated Error: 2.274155 
+[0][513] Error: 2.240316 
+[0][513] Accumulated Error: 2.274089 
+[0][514] Error: 2.234350 
+[0][514] Accumulated Error: 2.274011 
+[0][515] Error: 2.229236 
+[0][515] Accumulated Error: 2.273924 
+[0][516] Error: 2.230075 
+[0][516] Accumulated Error: 2.273839 
+[0][517] Error: 2.233598 
+[0][517] Accumulated Error: 2.273761 
+[0][518] Error: 2.240610 
+[0][518] Accumulated Error: 2.273697 
+[0][519] Error: 2.231648 
+[0][519] Accumulated Error: 2.273616 
+[0][520] Error: 2.233721 
+[0][520] Accumulated Error: 2.273540 
+[0][521] Error: 2.236896 
+[0][521] Accumulated Error: 2.273469 
+[0][522] Error: 2.251032 
+[0][522] Accumulated Error: 2.273426 
+[0][523] Error: 2.240407 
+[0][523] Accumulated Error: 2.273363 
+[0][524] Error: 2.232158 
+[0][524] Accumulated Error: 2.273285 
+[0][525] Error: 2.220605 
+[0][525] Accumulated Error: 2.273184 
+[0][526] Error: 2.223375 
+[0][526] Accumulated Error: 2.273090 
+[0][527] Error: 2.220204 
+[0][527] Accumulated Error: 2.272989 
+[0][528] Error: 2.244430 
+[0][528] Accumulated Error: 2.272935 
+[0][529] Error: 2.229264 
+[0][529] Accumulated Error: 2.272853 
+[0][530] Error: 2.233513 
+[0][530] Accumulated Error: 2.272778 
+[0][531] Error: 2.229309 
+[0][531] Accumulated Error: 2.272697 
+[0][532] Error: 2.233475 
+[0][532] Accumulated Error: 2.272623 
+[0][533] Error: 2.230882 
+[0][533] Accumulated Error: 2.272545 
+[0][534] Error: 2.215397 
+[0][534] Accumulated Error: 2.272437 
+[0][535] Error: 2.231042 
+[0][535] Accumulated Error: 2.272360 
+[0][536] Error: 2.234850 
+[0][536] Accumulated Error: 2.272290 
+[0][537] Error: 2.233438 
+[0][537] Accumulated Error: 2.272218 
+[0][538] Error: 2.228256 
+[0][538] Accumulated Error: 2.272136 
+[0][539] Error: 2.224324 
+[0][539] Accumulated Error: 2.272047 
+[0][540] Error: 2.234130 
+[0][540] Accumulated Error: 2.271977 
+[0][541] Error: 2.245190 
+[0][541] Accumulated Error: 2.271928 
+[0][542] Error: 2.230865 
+[0][542] Accumulated Error: 2.271852 
+[0][543] Error: 2.225891 
+[0][543] Accumulated Error: 2.271767 
+[0][544] Error: 2.221045 
+[0][544] Accumulated Error: 2.271674 
+[0][545] Error: 2.220723 
+[0][545] Accumulated Error: 2.271581 
+[0][546] Error: 2.228401 
+[0][546] Accumulated Error: 2.271501 
+[0][547] Error: 2.218152 
+[0][547] Accumulated Error: 2.271404 
+[0][548] Error: 2.221123 
+[0][548] Accumulated Error: 2.271312 
+[0][549] Error: 2.221195 
+[0][549] Accumulated Error: 2.271221 
+[0][550] Error: 2.237837 
+[0][550] Accumulated Error: 2.271160 
+[0][551] Error: 2.216466 
+[0][551] Accumulated Error: 2.271061 
+[0][552] Error: 2.213813 
+[0][552] Accumulated Error: 2.270957 
+[0][553] Error: 2.224558 
+[0][553] Accumulated Error: 2.270873 
+[0][554] Error: 2.228162 
+[0][554] Accumulated Error: 2.270796 
+[0][555] Error: 2.232623 
+[0][555] Accumulated Error: 2.270727 
+[0][556] Error: 2.215115 
+[0][556] Accumulated Error: 2.270627 
+[0][557] Error: 2.206909 
+[0][557] Accumulated Error: 2.270513 
+[0][558] Error: 2.224059 
+[0][558] Accumulated Error: 2.270430 
+[0][559] Error: 2.222858 
+[0][559] Accumulated Error: 2.270345 
+[0][560] Error: 2.214112 
+[0][560] Accumulated Error: 2.270244 
+[0][561] Error: 2.232374 
+[0][561] Accumulated Error: 2.270177 
+[0][562] Error: 2.216896 
+[0][562] Accumulated Error: 2.270082 
+[0][563] Error: 2.227089 
+[0][563] Accumulated Error: 2.270006 
+[0][564] Error: 2.235362 
+[0][564] Accumulated Error: 2.269944 
+[0][565] Error: 2.224807 
+[0][565] Accumulated Error: 2.269864 
+[0][566] Error: 2.217425 
+[0][566] Accumulated Error: 2.269772 
+[0][567] Error: 2.216253 
+[0][567] Accumulated Error: 2.269677 
+[0][568] Error: 2.218479 
+[0][568] Accumulated Error: 2.269587 
+[0][569] Error: 2.224566 
+[0][569] Accumulated Error: 2.269508 
+[0][570] Error: 2.213167 
+[0][570] Accumulated Error: 2.269409 
+[0][571] Error: 2.224652 
+[0][571] Accumulated Error: 2.269331 
+[0][572] Error: 2.220716 
+[0][572] Accumulated Error: 2.269246 
+[0][573] Error: 2.232163 
+[0][573] Accumulated Error: 2.269181 
+[0][574] Error: 2.216300 
+[0][574] Accumulated Error: 2.269089 
+[0][575] Error: 2.224913 
+[0][575] Accumulated Error: 2.269012 
+[0][576] Error: 2.221226 
+[0][576] Accumulated Error: 2.268929 
+[0][577] Error: 2.211033 
+[0][577] Accumulated Error: 2.268829 
+[0][578] Error: 2.218636 
+[0][578] Accumulated Error: 2.268742 
+[0][579] Error: 2.221128 
+[0][579] Accumulated Error: 2.268660 
+[0][580] Error: 2.211135 
+[0][580] Accumulated Error: 2.268560 
+[0][581] Error: 2.209738 
+[0][581] Accumulated Error: 2.268459 
+[0][582] Error: 2.219414 
+[0][582] Accumulated Error: 2.268375 
+[0][583] Error: 2.206515 
+[0][583] Accumulated Error: 2.268269 
+[0][584] Error: 2.223149 
+[0][584] Accumulated Error: 2.268192 
+[0][585] Error: 2.207927 
+[0][585] Accumulated Error: 2.268089 
+[0][586] Error: 2.211912 
+[0][586] Accumulated Error: 2.267993 
+[0][587] Error: 2.228575 
+[0][587] Accumulated Error: 2.267926 
+[0][588] Error: 2.219189 
+[0][588] Accumulated Error: 2.267843 
+[0][589] Error: 2.209942 
+[0][589] Accumulated Error: 2.267744 
+[0][590] Error: 2.202353 
+[0][590] Accumulated Error: 2.267634 
+[0][591] Error: 2.201056 
+[0][591] Accumulated Error: 2.267521 
+[0][592] Error: 2.205277 
+[0][592] Accumulated Error: 2.267416 
+[0][593] Error: 2.212894 
+[0][593] Accumulated Error: 2.267324 
+[0][594] Error: 2.220696 
+[0][594] Accumulated Error: 2.267245 
+[0][595] Error: 2.200571 
+[0][595] Accumulated Error: 2.267133 
+[0][596] Error: 2.209556 
+[0][596] Accumulated Error: 2.267037 
+[0][597] Error: 2.210303 
+[0][597] Accumulated Error: 2.266942 
+[0][598] Error: 2.218184 
+[0][598] Accumulated Error: 2.266860 
+[0][599] Error: 2.196915 
+[0][599] Accumulated Error: 2.266743 
+[0][600] Error: 2.230074 
+[0][600] Accumulated Error: 2.266682 

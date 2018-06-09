@@ -3,6 +3,7 @@ import torch.optim as optim
 import models
 from torch.autograd import Variable
 from torch.utils.data import DataLoader
+import torch.nn as nn
 import torch.nn.functional as F
 
 import os
@@ -48,7 +49,7 @@ classifier = models.classifier(isDropOut = opt.isDropOut)
 if opt.optimizer == 'ADAM':
     optimizer = optim.Adam(classifier.parameters(), lr = opt.learning_rate)
 elif opt.optimizer == 'SGD':
-    optimizer = optim.SGD(classifier.parameters(), lr = opt.learning_rate, momentum = 0.99)
+    optimizer = optim.SGD(classifier.parameters(), lr = opt.learning_rate, momentum = 0.5)
 else:
     raise ValueError('You are only required to consider SGD and ADAM optimizer')
 
@@ -72,7 +73,7 @@ for epoch in list(range(0, opt.nepoch) ):
 
         # Load the data
         im_cpu = dataBatch['img']
-        imBatch.data.resize_(im_cpu.size() )
+       imBatch.data.resize_(im_cpu.size() )
         imBatch.data.copy_(im_cpu)
         label_cpu = dataBatch['label']
         labelBatch.data.resize_(label_cpu.size() )
@@ -81,8 +82,10 @@ for epoch in list(range(0, opt.nepoch) ):
         # Train the network
         optimizer.zero_grad()
         predict = classifier(imBatch )
-        ## WRITE YOUR CODE HERE, Define the loss function ##
-
+        
+        criterion = nn.CrossEntropyLoss()       
+        error = criterion(predict,labelBatch)
+	error.backward()
         optimizer.step()
 
         errorList.append(error.cpu().data[0] )

@@ -3,6 +3,7 @@ import models
 from torch.autograd import Variable
 from torch.utils.data import DataLoader
 import torch.nn.functional as F
+import torch.nn as nn
 
 import os
 import dataLoader
@@ -75,7 +76,9 @@ for i, dataBatch in enumerate(mnistLoader):
     predict = classifier(imBatch )
     _, predictLabel = torch.max(predict, dim=1)
     ## WRITE YOU CODE HERE, Define the loss function##
-
+    criterion = nn.CrossEntropyLoss()
+    error = criterion(predict,labelBatch)
+   
     correctNum += torch.sum(predictLabel == labelBatch).cpu().data[0]
 
     errorList.append(error.cpu().data[0] )
